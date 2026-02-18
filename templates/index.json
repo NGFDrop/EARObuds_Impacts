@@ -206,6 +206,7 @@
         "item_XrJkxF": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_18_fevr._2026_17_35_55.png",
             "column_size": "4",
             "title": "Une autonomie longue durée",
             "heading_tag": "h5",
@@ -218,6 +219,7 @@
         "item_hQ7CRH": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_18_fevr._2026_17_53_37.png",
             "column_size": "4",
             "title": "Un design compact et élégant",
             "heading_tag": "h5",
@@ -230,6 +232,7 @@
         "item_MgND7q": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_18_fevr._2026_17_51_49.png",
             "column_size": "4",
             "title": "Une connexion rapide et stable",
             "heading_tag": "h5",
@@ -242,6 +245,7 @@
         "item_WfDzFa": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_18_fevr._2026_17_50_26.png",
             "column_size": "4",
             "title": "Un son clair et puissant",
             "heading_tag": "h5",
@@ -264,9 +268,85 @@
         "stack_on_mobile": false,
         "gap": "medium",
         "text_alignment": "center",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "subheading": "",
+        "title": "Technologie de pointe au service du son",
+        "content": "<p>Découvrez une technologie avancée conçue pour offrir une expérience audio supérieure.</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_ADcAFA": {
+      "type": "multi-column",
+      "blocks": {
+        "item_Rzrk7e": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_18_fevr._2026_17_35_55.png",
+            "column_size": "4",
+            "title": "Jean M.",
+            "heading_tag": "h5",
+            "content": "<p>★★★★★</p><p>J’ai déjà commandé deux autres paires, j’adore ! Je n’ai jamais été très habile pour poser des faux cils, mais en une seule journée j’ai appris à les maîtriser et je les porte désormais tous les jours. Impossible de m’en passer ! Merci MIMOeyes</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_PpQCQE": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_18_fevr._2026_17_53_37.png",
+            "column_size": "4",
+            "title": "Sofie L.",
+            "heading_tag": "h5",
+            "content": "<p>★★★★★</p><p>J’ai déjà commandé deux autres paires, j’adore ! Je n’ai jamais été très habile pour poser des faux cils, mais en une seule journée j’ai appris à les maîtriser et je les porte désormais tous les jours. Impossible de m’en passer ! Merci MIMOeyes</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_RVwaVb": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_18_fevr._2026_17_51_49.png",
+            "column_size": "4",
+            "title": "Eric P.",
+            "heading_tag": "h5",
+            "content": "<p>★★★★★</p><p>J’ai déjà commandé deux autres paires, j’adore ! Je n’ai jamais été très habile pour poser des faux cils, mais en une seule journée j’ai appris à les maîtriser et je les porte désormais tous les jours. Impossible de m’en passer ! Merci MIMOeyes</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_xV4QAE": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_18_fevr._2026_17_50_26.png",
+            "column_size": "4",
+            "title": "Carla R.",
+            "heading_tag": "h5",
+            "content": "<p>★★★★★</p><p>J’ai déjà commandé deux autres paires, j’adore ! Je n’ai jamais été très habile pour poser des faux cils, mais en une seule journée j’ai appris à les maîtriser et je les porte désormais tous les jours. Impossible de m’en passer ! Merci MIMOeyes</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_Rzrk7e",
+        "item_PpQCQE",
+        "item_RVwaVb",
+        "item_xV4QAE"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Rejoignez nos clientes satisfaites",
+        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -352,6 +432,7 @@
     "video_TCLTnT",
     "rich_text_4q4rQT",
     "multi_column_GVnKUy",
+    "multi_column_ADcAFA",
     "faq",
     "contact_pAbjmN"
   ]
