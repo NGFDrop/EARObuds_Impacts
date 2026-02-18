@@ -110,7 +110,7 @@
           "settings": {
             "title": "Nous contacter",
             "content": "<p>Service client: contact@earobuds.com</p><p></p><p>Du Lun au Ven de 9h à 12h et de 14h à 18h - Sam et Dim de 10h à 12h</p>",
-            "enable_follow_on_shop": true
+            "enable_follow_on_shop": false
           }
         }
       },
@@ -126,7 +126,7 @@
         "show_country_selector": true,
         "show_country_flag": true,
         "show_country_name": true,
-        "show_locale_selector": true
+        "show_locale_selector": false
       }
     }
   },
