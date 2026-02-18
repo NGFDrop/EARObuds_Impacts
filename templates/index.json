@@ -32,7 +32,7 @@
             "size": "lg",
             "text": "Acheter maintenant",
             "url": "shopify://products/ecouteurs-de-sommeil-sans-fil-bluetooth-sk26-suppression-du-bruit-oreillettes-discretes-mini-casque-invisible-avec-micro-pour-le-sport",
-            "background": "#5b8cff",
+            "background": "#2c7ef4",
             "text_color": "#f2f2f2"
           }
         },
@@ -130,6 +130,42 @@
         "heading_gradient": "",
         "logo_item_background": "",
         "logo_item_border": ""
+      }
+    },
+    "rich_text_4q4rQT": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_KRxc6w": {
+          "type": "heading",
+          "settings": {
+            "text": "petits par la taille, puissants par l’expérience",
+            "heading_tag": "h1",
+            "text_color": "#f2f2f2",
+            "gradient": ""
+          }
+        },
+        "image_rtgnBt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/EaroBuds_copy_c7d2ac23-3bc7-482e-96a4-8b068ca171b2.png",
+            "width_mode": "custom",
+            "max_width": 1000,
+            "mobile_max_width": 600
+          }
+        }
+      },
+      "block_order": [
+        "heading_KRxc6w",
+        "image_rtgnBt"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "large",
+        "text_position": "center",
+        "background": "#2c7ef4",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "media-grid": {
@@ -464,6 +500,7 @@
   "order": [
     "image_with_text_overlay_Jwqg7g",
     "logo_list_gRjPe8",
+    "rich_text_4q4rQT",
     "media-grid",
     "press",
     "hot-spots",
