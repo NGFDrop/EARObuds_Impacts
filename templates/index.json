@@ -479,6 +479,7 @@
     },
     "image_with_text_overlay_QNeViq": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
@@ -511,6 +512,7 @@
         "item_XbczXT": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/PHOTO-2026-02-18-17-44-56_3afa70ce-8ebf-4dfd-a22d-443a4826d943.jpg",
             "image_rotation_degrees": 1.5,
             "subheading": "",
             "title": "Musique & Films",
@@ -522,10 +524,11 @@
         "item_awQeVX": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/PHOTO-2026-02-18-17-44-56_cdf0e4bf-7913-434a-aeaa-fb722692050a.jpg",
             "image_rotation_degrees": 0,
             "subheading": "",
-            "title": "Travail",
-            "content": "<p>Discrets et quasi invisibles. Appels clairs et concentration totale, en toute élégance</p>",
+            "title": "Sommeil & Détente",
+            "content": "<p>Minuscules, sans fil et sans pression — laissez-vous emporter par des sons relaxants, des livres audio ou votre playlist apaisante préférée</p>",
             "button_url": "",
             "button_text": ""
           }
@@ -541,9 +544,9 @@
         "full_width": true,
         "images_layout": "stacked",
         "collage_images_alignment": "middle",
-        "background": "",
+        "background": "#2c7ef4",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#f0f0f0",
         "button_background": "",
         "button_text_color": ""
       }
