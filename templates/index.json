@@ -171,7 +171,7 @@
           "type": "heading",
           "settings": {
             "text": "Invisible à l’œil. Inoubliable à l’oreille",
-            "heading_tag": "h1",
+            "heading_tag": "h2",
             "text_color": "#f2f2f2",
             "gradient": ""
           }
@@ -180,7 +180,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/EaroBuds_copy_30a9a732-fc1f-4343-910f-fa3bdfd97b7f.png",
-            "width_mode": "custom",
+            "width_mode": "full_width",
             "max_width": 1000,
             "mobile_max_width": 600
           }
