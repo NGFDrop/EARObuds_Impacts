@@ -25,6 +25,17 @@
             "heading_tag": "h3"
           }
         },
+        "button_66VUYE": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "lg",
+            "text": "Acheter maintenant",
+            "url": "shopify://products/ecouteurs-de-sommeil-sans-fil-bluetooth-sk26-suppression-du-bruit-oreillettes-discretes-mini-casque-invisible-avec-micro-pour-le-sport",
+            "background": "#5b8cff",
+            "text_color": ""
+          }
+        },
         "richtext_kLGTEM": {
           "type": "richtext",
           "settings": {
@@ -35,6 +46,7 @@
       "block_order": [
         "subheading_LBQnMH",
         "heading_LVy3wF",
+        "button_66VUYE",
         "richtext_kLGTEM"
       ],
       "name": "Image with text overlay",
@@ -49,7 +61,7 @@
         "desktop_text_position": "sm:place-self-start sm:text-start",
         "text_color": "#f0f0f0",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 40
       }
     },
     "image-link-blocks": {
