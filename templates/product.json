@@ -48,13 +48,20 @@
             "max_width": 500
           }
         },
+        "kaching_bundles_app_block_j4ntey": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{product}}",
+            "manual_deal_block_id": ""
+          }
+        },
         "liquid_BckYdQ": {
           "type": "liquid",
           "settings": {
             "liquid": "<style>\n  p {\n    font-size: 14px;\n    line-height: 2;\n  }\n</style>\n\n<p>● +5 clientes nous ont fait confiance cette semaine</p>\n<p>● Satisfait ou remboursé - 14 jours</p>\n<p>● Paiement 100% sécurisé</p>\n<p>● Livraison gratuite avec suivi sous 5 à 10 jours ouvrés</p>\n<p>● Expédition: FR, BE, CH, LU</p>\n<br/>\n💚 Économisez davantage avec le pack couple (le plus choisi)"
           }
         },
-        "buy_buttons": {
+        "buy_buttons_LNaQhr": {
           "type": "buy_buttons",
           "settings": {
             "show_payment_button": false,
@@ -73,8 +80,9 @@
         "liquid_kr7BMD",
         "separator",
         "image_4TEbhQ",
+        "kaching_bundles_app_block_j4ntey",
         "liquid_BckYdQ",
-        "buy_buttons"
+        "buy_buttons_LNaQhr"
       ],
       "settings": {
         "full_width": true,
