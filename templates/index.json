@@ -541,12 +541,44 @@
             "title": "Sont-ils disponibles en différentes tailles ?",
             "content": "<p>Oui — les <strong>EAROBUDS</strong> sont fournis avec deux tailles d’embouts</p><p>une paire préinstallée</p><p>une seconde paire légèrement plus grande, pour celles et ceux qui préfèrent une meilleure tenue et une sensation plus enveloppante</p><p>La majorité des utilisateurs trouvent un confort optimal avec la taille par défaut, mais la paire supplémentaire offre un meilleur maintien si tu as des conduits auditifs plus larges ou si tu souhaites une isolation sonore renforcée.</p>"
           }
+        },
+        "item_GP3CHj": {
+          "type": "item",
+          "settings": {
+            "title": "Sont-ils compatibles avec les piercings ?",
+            "content": "<p>Oui, dans la plupart des cas !<br/><br/>Des clients ayant des piercings comme le helix, le tragus ou le daith indiquent qu’ils sont très confortables, même pour dormir sur le côté.<br/><br/>Pour des piercings plus complexes (comme le conch ou le rook), cela peut dépendre de ton anatomie —<br/>mais pas d’inquiétude : tu es toujours couvert(e) par notre politique de retour de 14 jours si le produit ne te convient pas.</p>"
+          }
+        },
+        "item_GDdtpg": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_hAVehx": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_rNMgWC": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_GP3CHj",
+        "item_GDdtpg",
+        "item_hAVehx",
+        "item_rNMgWC"
       ],
       "settings": {
         "full_width": false,
