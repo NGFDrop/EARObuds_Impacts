@@ -569,6 +569,27 @@
             "title": "Est-ce compatible avec mon téléphone ou mon ordinateur portable ?",
             "content": "<p>Oui !<br/><br/>Compatible avec iOS, Android, Mac, Windows, tablettes, montres connectées…<br/>Bref, avec tout appareil équipé du Bluetooth.</p>"
           }
+        },
+        "item_Eb4mVt": {
+          "type": "item",
+          "settings": {
+            "title": "Le son est-il puissant et équilibré ?",
+            "content": "<p>Oui.<br/><br/>Attendez-vous à des basses profondes, des voix claires et des médiums parfaitement équilibrés, grâce aux transducteurs acoustiques spécialement calibrés des Air.<br/><br/>Et oui… le volume peut monter fort 🔥</p>"
+          }
+        },
+        "item_HP6gyN": {
+          "type": "item",
+          "settings": {
+            "title": "Est-il résistant à l’eau ?",
+            "content": "<p>Oui.<br/><br/>Les EAROBUDS sont résistants à l’eau (certification IPX5), ce qui signifie qu’ils supportent la transpiration et les éclaboussures.<br/>Idéals pour le sport, la pluie légère et une utilisation quotidienne sans souci.</p>"
+          }
+        },
+        "item_Tb9YGQ": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
         }
       },
       "block_order": [
@@ -578,7 +599,10 @@
         "item_GP3CHj",
         "item_GDdtpg",
         "item_hAVehx",
-        "item_rNMgWC"
+        "item_rNMgWC",
+        "item_Eb4mVt",
+        "item_HP6gyN",
+        "item_Tb9YGQ"
       ],
       "settings": {
         "full_width": false,
