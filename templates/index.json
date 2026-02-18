@@ -113,8 +113,8 @@
       ],
       "name": "Logo list",
       "settings": {
-        "full_width": true,
-        "stack_mobile": true,
+        "full_width": false,
+        "stack_mobile": false,
         "title": "Vue sur :",
         "content": "",
         "text_alignment": "center",
