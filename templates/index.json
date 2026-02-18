@@ -22,7 +22,7 @@
           "type": "heading",
           "settings": {
             "text": "EAROBUDS – Le son invisible, l’impact maximum",
-            "heading_tag": "h2"
+            "heading_tag": "h3"
           }
         },
         "button_66VUYE": {
@@ -387,7 +387,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/EaroBuds_copy_2.png",
-            "alignment": "start",
+            "alignment": "center",
             "max_width": 500
           }
         },
