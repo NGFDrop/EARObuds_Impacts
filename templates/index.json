@@ -404,6 +404,12 @@
             "manual_deal_block_id": ""
           }
         },
+        "liquid_CqeGgP": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  p {\n    font-size: 14px;\n    line-height: 2;\n  }\n</style>\n\n<p>● +5 clientes nous ont fait confiance cette semaine</p>\n<p>● Satisfait ou remboursé - 14 jours</p>\n<p>● Paiement 100% sécurisé</p>\n<p>● Livraison gratuite avec suivi sous 5 à 10 jours ouvrés</p>\n<p>● Expédition: FR, BE, CH, LU</p>\n<br/>\n💚 Économisez davantage avec le pack couple (le plus choisi)"
+          }
+        },
         "variant_picker_bQqxUt": {
           "type": "variant_picker",
           "settings": {
@@ -444,6 +450,7 @@
         "separator_X8haKy",
         "description_Y8JfKK",
         "kaching_bundles_app_block_GVPaHE",
+        "liquid_CqeGgP",
         "variant_picker_bQqxUt",
         "quantity_selector_kCwtzD",
         "buy_buttons_TzkFi7",
