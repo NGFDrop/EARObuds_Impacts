@@ -518,11 +518,23 @@
             "button_url": "",
             "button_text": ""
           }
+        },
+        "item_awQeVX": {
+          "type": "item",
+          "settings": {
+            "image_rotation_degrees": 0,
+            "subheading": "",
+            "title": "Travail",
+            "content": "<p>Discrets et quasi invisibles. Appels clairs et concentration totale, en toute élégance</p>",
+            "button_url": "",
+            "button_text": ""
+          }
         }
       },
       "block_order": [
         "item_wHTAme",
-        "item_XbczXT"
+        "item_XbczXT",
+        "item_awQeVX"
       ],
       "name": "Multiple images with text",
       "settings": {
