@@ -379,22 +379,16 @@
             "liquid": "✅ Taille mini & discrète</br>\n✅ Son de qualité supérieure</br>\n✅ Confort et ergonomie</br>\n✅ Connectivité rapide & universelle</br>\n✅ Autonomie & recharge pratique</br>"
           }
         },
-        "rating_edyiyp": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
         "separator_X8haKy": {
           "type": "separator",
           "settings": {}
         },
-        "description_Y8JfKK": {
-          "type": "description",
+        "image_EFkXpP": {
+          "type": "image",
           "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "collapse_content": false
+            "image": "shopify://shop_images/EaroBuds_copy_2.png",
+            "alignment": "start",
+            "max_width": 500
           }
         },
         "kaching_bundles_app_block_GVPaHE": {
@@ -435,9 +429,8 @@
         "price_f646zx",
         "liquid_6FNH77",
         "liquid_KaFqh9",
-        "rating_edyiyp",
         "separator_X8haKy",
-        "description_Y8JfKK",
+        "image_EFkXpP",
         "kaching_bundles_app_block_GVPaHE",
         "liquid_CqeGgP",
         "buy_buttons_TzkFi7",
