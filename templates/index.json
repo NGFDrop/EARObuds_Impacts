@@ -601,43 +601,36 @@
         "item_KUPJar": {
           "type": "item",
           "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "title": "Prend-il en charge la connexion automatique et les commandes tactiles ?",
+            "content": "<p>Oui.<br/><br/>Les écouteurs se connectent automatiquement dès que vous ouvrez le boîtier, et vous pouvez lancer/mettre en pause la lecture, changer de piste ou répondre aux appels grâce à de simples gestes tactiles.</p>"
           }
         },
         "item_6Lrw6a": {
           "type": "item",
           "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "title": "Puis-je passer des appels avec ?",
+            "content": "<p>Bien sûr.<br/><br/>Le micro intégré avec réduction de bruit garantit une voix claire et nette, même dans des environnements bruyants.</p>"
           }
         },
         "item_7h8834": {
           "type": "item",
           "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "title": "Quelle est l’autonomie de la batterie ?",
+            "content": "<p>Jusqu’à 24 heures au total :<br/><br/>– jusqu’à 6 heures d’écoute sur une seule charge<br/>– 18 heures supplémentaires grâce au boîtier de charge<br/><br/>⏱️ Recharge complète en environ 1 heure.</p>"
           }
         },
         "item_dWByRB": {
           "type": "item",
           "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "title": "Quand vais-je recevoir ma commande ?",
+            "content": "<p>Nous proposons des options de livraison fiables et flexibles pour répondre à vos besoins. Voici les détails :<br/><br/>🚚 Livraison gratuite<br/><br/>Délai de préparation : 1 à 2 jours ouvrables<br/>Délai de livraison : 5 à 10 jours ouvrables<br/>Inclus : livraison suivie et protégée</p>"
           }
         },
         "item_pEmJkP": {
           "type": "item",
           "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
-          }
-        },
-        "item_hJ687E": {
-          "type": "item",
-          "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "title": "Durée de vie & garantie ?",
+            "content": "<p>Les EAROBUDS sont livrés avec une garantie d’1 an.<br/><br/>Si quoi que ce soit ne fonctionne pas comme prévu, nous vous couvrons avec un support simple, rapide et des remplacements sans tracas.</p>"
           }
         }
       },
@@ -657,8 +650,7 @@
         "item_6Lrw6a",
         "item_7h8834",
         "item_dWByRB",
-        "item_pEmJkP",
-        "item_hJ687E"
+        "item_pEmJkP"
       ],
       "settings": {
         "full_width": false,
