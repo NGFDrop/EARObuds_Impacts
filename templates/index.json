@@ -590,6 +590,55 @@
             "title": "Puis-je les utiliser à l’extérieur ou pendant le sport ?",
             "content": "<p>Oui !<br/><br/>Les <strong>EAROBUDS</strong> sont résistants à la transpiration et ultra-légers, avec un maintien sécurisé qui ne bouge pas lorsque vous marchez, courez ou vous entraînez à la salle de sport.</p>"
           }
+        },
+        "item_6WTYnT": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je les utiliser pour dormir ou me détendre ?",
+            "content": "<p>Absolument.<br/><br/>Ils sont compacts, légers et équipés d’embouts en silicone souple, parfaits pour s’endormir en musique, méditer ou écouter des podcasts en toute tranquillité.</p>"
+          }
+        },
+        "item_KUPJar": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_6Lrw6a": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_7h8834": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_dWByRB": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_pEmJkP": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_hJ687E": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
         }
       },
       "block_order": [
@@ -602,7 +651,14 @@
         "item_rNMgWC",
         "item_Eb4mVt",
         "item_HP6gyN",
-        "item_Tb9YGQ"
+        "item_Tb9YGQ",
+        "item_6WTYnT",
+        "item_KUPJar",
+        "item_6Lrw6a",
+        "item_7h8834",
+        "item_dWByRB",
+        "item_pEmJkP",
+        "item_hJ687E"
       ],
       "settings": {
         "full_width": false,
