@@ -422,6 +422,36 @@
             "alignment": "center",
             "max_width": 500
           }
+        },
+        "collapsible_text_ctmMhD": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_T7TJDj": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_jDH93x": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -434,7 +464,10 @@
         "kaching_bundles_app_block_GVPaHE",
         "liquid_CqeGgP",
         "buy_buttons_TzkFi7",
-        "image_yTxn3Y"
+        "image_yTxn3Y",
+        "collapsible_text_ctmMhD",
+        "collapsible_text_T7TJDj",
+        "collapsible_text_jDH93x"
       ],
       "name": "Featured product",
       "settings": {
