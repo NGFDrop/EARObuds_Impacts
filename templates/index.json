@@ -58,7 +58,7 @@
         "image": "shopify://shop_images/EaroBuds.png",
         "mobile_image": "shopify://shop_images/PHOTO-2026-02-18-13-38-11.jpg",
         "mobile_text_position": "place-self-start text-start",
-        "desktop_text_position": "sm:place-self-start sm:text-start",
+        "desktop_text_position": "sm:place-self-end-center sm:text-center",
         "text_color": "#f0f0f0",
         "overlay_color": "#000000",
         "overlay_opacity": 40
