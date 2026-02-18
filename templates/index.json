@@ -439,7 +439,7 @@
             "icon": "none",
             "icon_width": 20,
             "title": "Caractéristiques",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "content": "<p>– Bluetooth 5.4 (connexion ultra-stable)<br/>– Microphone intégré (pour des appels clairs)<br/>– ENC – Réduction du bruit environnemental<br/>– Commandes tactiles (musique, appels, assistant vocal)<br/>– Autonomie : 6 h (écouteurs) + 18 h (boîtier de charge)<br/>– Recharge USB-C <br/>– Type de batterie : batterie lithium rechargeable<br/>– Résistance à l’eau IPX5 (résistant à la transpiration et aux éclaboussures)<br/>– Ultra-léger : 3 g par écouteur<br/>– Écran LED numérique (niveau de batterie visible en un coup d’œil)<br/>– Modes mono & stéréo (utilisation d’un seul écouteur ou des deux)</p>",
             "page": ""
           }
         },
@@ -449,7 +449,7 @@
             "icon": "none",
             "icon_width": 20,
             "title": "Contenue du coffret",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "content": "<p>Tout ce dont vous avez besoin pour bien démarrer :<br/></p><ul><li>Écouteurs <strong>EAROBUDS</strong> (gauche + droit)</li><li>Boîtier de charge magnétique</li><li>Câble de charge USB-C</li><li>Plusieurs tailles d’embouts pour un ajustement parfait</li><li>Guide de démarrage rapide</li></ul>",
             "page": ""
           }
         }
@@ -556,13 +556,6 @@
             "content": "<p>Super facile.<br/><br/>Il suffit d’ouvrir le boîtier, de les connecter via Bluetooth, et c’est parti.<br/><br/>Aucune application nécessaire, aucune étape compliquée.</p>"
           }
         },
-        "item_hAVehx": {
-          "type": "item",
-          "settings": {
-            "title": "Que contient la boîte ?",
-            "content": "<p>Tout ce dont vous avez besoin pour bien démarrer :<br/><br/>– Écouteurs <strong>EAROBUDS</strong> (gauche + droit)<br/>– Boîtier de charge magnétique<br/>– Câble de charge USB-C<br/>– Plusieurs tailles d’embouts pour un ajustement parfait<br/>– Guide de démarrage rapide</p>"
-          }
-        },
         "item_rNMgWC": {
           "type": "item",
           "settings": {
@@ -640,7 +633,6 @@
         "166442457738b23caf-2",
         "item_GP3CHj",
         "item_GDdtpg",
-        "item_hAVehx",
         "item_rNMgWC",
         "item_Eb4mVt",
         "item_HP6gyN",
@@ -663,7 +655,7 @@
         "button_text": "",
         "button_url": "",
         "text_position": "start",
-        "background": "#ffffff",
+        "background": "rgba(0,0,0,0)",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
