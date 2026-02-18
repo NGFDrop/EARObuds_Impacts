@@ -138,8 +138,8 @@
         "heading_KRxc6w": {
           "type": "heading",
           "settings": {
-            "text": "petits par la taille, puissants par l’expérience",
-            "heading_tag": "h1",
+            "text": "Le plus compacts et performants du marché",
+            "heading_tag": "h2",
             "text_color": "#f2f2f2",
             "gradient": ""
           }
@@ -160,7 +160,7 @@
       ],
       "name": "Rich text",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "content_width": "large",
         "text_position": "center",
         "background": "#2c7ef4",
