@@ -439,7 +439,7 @@
             "icon": "none",
             "icon_width": 20,
             "title": "Caractéristiques",
-            "content": "<p>– Bluetooth 5.4 (connexion ultra-stable)<br/>– Microphone intégré (pour des appels clairs)<br/>– ENC – Réduction du bruit environnemental<br/>– Commandes tactiles (musique, appels, assistant vocal)<br/>– Autonomie : 6 h (écouteurs) + 18 h (boîtier de charge)<br/>– Recharge USB-C <br/>– Type de batterie : batterie lithium rechargeable<br/>– Résistance à l’eau IPX5 (résistant à la transpiration et aux éclaboussures)<br/>– Ultra-léger : 3 g par écouteur<br/>– Écran LED numérique (niveau de batterie visible en un coup d’œil)<br/>– Modes mono & stéréo (utilisation d’un seul écouteur ou des deux)</p>",
+            "content": "<ul><li>Bluetooth 5.4 (connexion ultra-stable)</li><li>Microphone intégré (pour des appels clairs)</li><li>ENC – Réduction du bruit environnemental</li><li>Commandes tactiles (musique, appels, assistant vocal)</li><li>Autonomie : 6 h (écouteurs) + 18 h (boîtier de charge)</li><li>Recharge USB-C </li><li>Type de batterie : batterie lithium rechargeable</li><li>Résistance à l’eau IPX5 (résistant à la transpiration et aux éclaboussures)</li><li>Ultra-léger : 3 g par écouteur</li><li>Écran LED numérique (niveau de batterie visible en un coup d’œil)</li><li>Modes mono & stéréo (utilisation d’un seul écouteur ou des deux)</li></ul>",
             "page": ""
           }
         },
