@@ -352,6 +352,29 @@
         "text_color": ""
       }
     },
+    "1771441483f3c0bbb4": {
+      "type": "apps",
+      "blocks": {
+        "kaching_bundles_app_block_6P6RwR": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "ecouteurs-de-sommeil-sans-fil-bluetooth-sk26-suppression-du-bruit-oreillettes-discretes-mini-casque-invisible-avec-micro-pour-le-sport",
+            "manual_deal_block_id": ""
+          }
+        }
+      },
+      "block_order": [
+        "kaching_bundles_app_block_6P6RwR"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -433,6 +456,7 @@
     "rich_text_4q4rQT",
     "multi_column_GVnKUy",
     "multi_column_ADcAFA",
+    "1771441483f3c0bbb4",
     "faq",
     "contact_pAbjmN"
   ]
