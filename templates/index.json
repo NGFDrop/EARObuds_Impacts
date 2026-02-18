@@ -179,7 +179,7 @@
         "image_rtgnBt": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/EaroBuds_copy_c7d2ac23-3bc7-482e-96a4-8b068ca171b2.png",
+            "image": "shopify://shop_images/EaroBuds_copy_30a9a732-fc1f-4343-910f-fa3bdfd97b7f.png",
             "width_mode": "custom",
             "max_width": 1000,
             "mobile_max_width": 600
@@ -294,7 +294,6 @@
         "item-3",
         "29246d34-c6e0-4373-84f6-b15e57736a00"
       ],
-      "disabled": true,
       "settings": {
         "full_width": true,
         "reduce_width": false,
