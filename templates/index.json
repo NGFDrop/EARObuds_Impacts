@@ -552,8 +552,8 @@
         "item_GDdtpg": {
           "type": "item",
           "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "title": "Est-ce facile à configurer ?",
+            "content": "<p>Super facile.<br/><br/>Il suffit d’ouvrir le boîtier, de les connecter via Bluetooth, et c’est parti.<br/><br/>Aucune application nécessaire, aucune étape compliquée.</p>"
           }
         },
         "item_hAVehx": {
