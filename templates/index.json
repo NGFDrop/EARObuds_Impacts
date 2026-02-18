@@ -22,7 +22,7 @@
           "type": "heading",
           "settings": {
             "text": "EAROBUDS – Le son invisible, l’impact maximum",
-            "heading_tag": "h3"
+            "heading_tag": "h2"
           }
         },
         "button_66VUYE": {
@@ -39,7 +39,7 @@
         "richtext_kLGTEM": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Découvrez les <strong>EAROBUDS</strong>, les écouteurs sans fil les plus compacts et performants du marché.</p><p>✔ Taille mini & discrète<br/>✔ Son de qualité supérieure<br/>✔ Confort et ergonomie<br/>✔ Connectivité rapide & universelle<br/>✔ Autonomie & recharge pratique<br/>✔ Polyvalent & lifestyle<br/>✔ Style futuriste & moderne</p>"
+            "content": "<h5>Découvrez les <strong>EAROBUDS</strong>, les écouteurs sans fil les plus compacts et performants du marché.</h5><h5>✔ Taille mini & discrète<br/>✔ Son de qualité supérieure<br/>✔ Confort et ergonomie<br/>✔ Connectivité rapide & universelle<br/>✔ Autonomie & recharge pratique<br/>✔ Polyvalent & lifestyle<br/>✔ Style futuriste & moderne</h5>"
           }
         }
       },
