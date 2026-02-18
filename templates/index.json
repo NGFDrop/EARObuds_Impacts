@@ -9,65 +9,47 @@
  */
 {
   "sections": {
-    "slideshow": {
-      "type": "slideshow",
+    "image_with_text_overlay_Jwqg7g": {
+      "type": "image-with-text-overlay",
       "blocks": {
-        "slide-1": {
-          "type": "image",
+        "subheading_LBQnMH": {
+          "type": "subheading",
           "settings": {
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide title",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "background": "",
-            "background_gradient": ""
+            "text": "Subheading"
           }
         },
-        "slide-2": {
-          "type": "image",
+        "heading_LVy3wF": {
+          "type": "heading",
           "settings": {
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide title",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "background": "",
-            "background_gradient": ""
+            "text": "Image with text overlay",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_kLGTEM": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
       },
       "block_order": [
-        "slide-1",
-        "slide-2"
+        "subheading_LBQnMH",
+        "heading_LVy3wF",
+        "richtext_kLGTEM"
       ],
+      "name": "Image with text overlay",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": true,
-        "show_initial_transition": false,
-        "image_size": "lg",
-        "controls_type": "numbers",
-        "transition_type": "fade_with_text",
-        "autoplay": true,
-        "cycle_speed": 6,
-        "background": "#f2f2f2",
-        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "md",
+        "image": "shopify://shop_images/EaroBuds.png",
+        "mobile_image": "shopify://shop_images/PHOTO-2026-02-18-13-38-11.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
       }
     },
     "image-link-blocks": {
@@ -765,7 +747,7 @@
     }
   },
   "order": [
-    "slideshow",
+    "image_with_text_overlay_Jwqg7g",
     "image-link-blocks",
     "scrolling-text",
     "collection-list",
