@@ -559,8 +559,8 @@
         "item_hAVehx": {
           "type": "item",
           "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "title": "Que contient la boîte ?",
+            "content": "<p>Tout ce dont vous avez besoin pour bien démarrer :<br/><br/>– Écouteurs <strong>EAROBUDS</strong> (gauche + droit)<br/>– Boîtier de charge magnétique<br/>– Câble de charge USB-C<br/>– Plusieurs tailles d’embouts pour un ajustement parfait<br/>– Guide de démarrage rapide</p>"
           }
         },
         "item_rNMgWC": {
