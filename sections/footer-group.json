@@ -21,7 +21,7 @@
             "mobile_icon_width": 32,
             "icon_width": 32,
             "icon_background_type": "circle",
-            "icon_background": "#5b8cff",
+            "icon_background": "#2c7ef4",
             "icon_color": "rgba(0,0,0,0)",
             "title": "Livraison gratuite",
             "content": ""
@@ -34,7 +34,7 @@
             "mobile_icon_width": 32,
             "icon_width": 32,
             "icon_background_type": "circle",
-            "icon_background": "#5b8cff",
+            "icon_background": "#2c7ef4",
             "icon_color": "",
             "title": "Service client 7J/7",
             "content": ""
@@ -47,7 +47,7 @@
             "mobile_icon_width": 32,
             "icon_width": 32,
             "icon_background_type": "circle",
-            "icon_background": "#5b8cff",
+            "icon_background": "#2c7ef4",
             "icon_color": "",
             "title": "Satisfait ou remboursé",
             "content": ""
@@ -60,7 +60,7 @@
             "mobile_icon_width": 32,
             "icon_width": 32,
             "icon_background_type": "circle",
-            "icon_background": "#5b8cff",
+            "icon_background": "#2c7ef4",
             "icon_color": "",
             "title": "Paiement sécurisé",
             "content": ""
