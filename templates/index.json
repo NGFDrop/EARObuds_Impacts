@@ -15,20 +15,20 @@
         "subheading_LBQnMH": {
           "type": "subheading",
           "settings": {
-            "text": "Subheading"
+            "text": "Écouteurs mini, son immense — petits par la taille, puissants par l’expérience."
           }
         },
         "heading_LVy3wF": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
+            "text": "EAROBUDS – Le son invisible, l’impact maximum",
+            "heading_tag": "h3"
           }
         },
         "richtext_kLGTEM": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>Découvrez les <strong>EAROBUDS</strong>, les écouteurs sans fil les plus compacts et performants du marché.</p><p>✔ Taille mini & discrète<br/>✔ Son de qualité supérieure<br/>✔ Confort et ergonomie<br/>✔ Connectivité rapide & universelle<br/>✔ Autonomie & recharge pratique<br/>✔ Polyvalent & lifestyle<br/>✔ Style futuriste & moderne</p>"
           }
         }
       },
@@ -45,9 +45,9 @@
         "image_size": "md",
         "image": "shopify://shop_images/EaroBuds.png",
         "mobile_image": "shopify://shop_images/PHOTO-2026-02-18-13-38-11.jpg",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
+        "mobile_text_position": "place-self-start text-start",
+        "desktop_text_position": "sm:place-self-start sm:text-start",
+        "text_color": "#f0f0f0",
         "overlay_color": "#000000",
         "overlay_opacity": 30
       }
