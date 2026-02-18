@@ -200,258 +200,76 @@
         "text_color": ""
       }
     },
-    "media-grid": {
-      "type": "media-grid",
+    "multi_column_GVnKUy": {
+      "type": "multi-column",
       "blocks": {
-        "item-1": {
-          "type": "image",
+        "item_XrJkxF": {
+          "type": "item",
           "settings": {
-            "title": "Promote your products",
-            "heading_tag": "h4",
+            "column_size": "4",
+            "title": "Une autonomie longue durée",
+            "heading_tag": "h5",
+            "content": "<p>Dotés d’une batterie haute capacité, ces écouteurs garantissent une autonomie exceptionnelle, idéale pour les journées intensives et les longs trajets.</p>",
             "link_url": "",
             "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 2,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "link_style": "link"
           }
         },
-        "item-2": {
-          "type": "image",
+        "item_hQ7CRH": {
+          "type": "item",
           "settings": {
-            "title": "Promote your products",
-            "heading_tag": "h4",
+            "column_size": "4",
+            "title": "Un design compact et élégant",
+            "heading_tag": "h5",
+            "content": "<p>Un design compact et élégant, aux finitions soignées, conçu pour ceux qui recherchent à la fois style, confort et performance.</p>",
             "link_url": "",
             "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 1,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "link_style": "link"
           }
         },
-        "item-3": {
-          "type": "image",
+        "item_MgND7q": {
+          "type": "item",
           "settings": {
-            "title": "Promote your products",
-            "heading_tag": "h4",
+            "column_size": "4",
+            "title": "Une connexion rapide et stable",
+            "heading_tag": "h5",
+            "content": "<p>Équipés d’un Bluetooth de dernière génération, ces écouteurs offrent un appairage ultra-rapide et une stabilité renforcée. Une qualité audio constante pour une expérience sans compromis.</p>",
             "link_url": "",
             "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 1,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "link_style": "link"
           }
         },
-        "29246d34-c6e0-4373-84f6-b15e57736a00": {
-          "type": "image",
+        "item_WfDzFa": {
+          "type": "item",
           "settings": {
-            "title": "Promote your products",
+            "column_size": "4",
+            "title": "Un son clair et puissant",
             "heading_tag": "h4",
+            "content": "<p>Profitez d’un son clair et puissant qui vous plonge au cœur de votre musique, avec des basses percutantes et une clarté exceptionnelle, même à volume élevé.</p><h3></h3>",
             "link_url": "",
             "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "link_style": "link"
           }
         }
       },
       "block_order": [
-        "item-1",
-        "item-2",
-        "item-3",
-        "29246d34-c6e0-4373-84f6-b15e57736a00"
+        "item_XrJkxF",
+        "item_hQ7CRH",
+        "item_MgND7q",
+        "item_WfDzFa"
       ],
+      "name": "Multi-column",
       "settings": {
         "full_width": true,
-        "reduce_width": false,
-        "desktop_row_height": 290,
-        "mobile_row_height": 150,
-        "background": "",
-        "background_gradient": ""
-      }
-    },
-    "press": {
-      "type": "press",
-      "blocks": {
-        "16644243327ba53d2a-0": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Share info about what your customers say about your products.",
-            "show_rating": false,
-            "rating": 4
-          }
-        },
-        "16644243327ba53d2a-1": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Or share content about your promotion, offers...",
-            "show_rating": false,
-            "rating": 4
-          }
-        }
-      },
-      "block_order": [
-        "16644243327ba53d2a-0",
-        "16644243327ba53d2a-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "About",
+        "title": "Featured content",
+        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
-      }
-    },
-    "hot-spots": {
-      "type": "hot-spots",
-      "blocks": {
-        "1664424434f5b7d0e0-0": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 24,
-            "vertical_position": 70,
-            "horizontal_position_mobile": 24,
-            "vertical_position_mobile": 70,
-            "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
-          }
-        },
-        "1664424434f5b7d0e0-1": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 62,
-            "vertical_position": 14,
-            "horizontal_position_mobile": 62,
-            "vertical_position_mobile": 14,
-            "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
-          }
-        },
-        "1664424434f5b7d0e0-2": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 83,
-            "vertical_position": 75,
-            "horizontal_position_mobile": 83,
-            "vertical_position_mobile": 75,
-            "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "1664424434f5b7d0e0-0",
-        "1664424434f5b7d0e0-1",
-        "1664424434f5b7d0e0-2"
-      ],
-      "disabled": true,
-      "settings": {
-        "full_width": true,
-        "title": "",
-        "content": "",
-        "button_text": "",
-        "button_url": "",
-        "desktop_text_position": "place-self-start text-start",
-        "image_background": "",
-        "image_background_gradient": "",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0,
-        "overlay_text_color": "#ffffff",
-        "overlay_button_background": "",
-        "overlay_button_text_color": "",
-        "hot_spot_dot_background": "#ffffff",
-        "hot_spot_dot_text_color": "#000000",
-        "hot_spot_content_background": "#ffffff",
-        "hot_spot_content_text_color": "#000000",
-        "hot_spot_content_opacity": 90,
-        "hot_spot_content_blur_radius": 3
-      }
-    },
-    "multiple-images-with-text": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "1664424486a2b084ab-0": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        },
-        "1664424486a2b084ab-1": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": 1.5,
-            "subheading": "",
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "1664424486a2b084ab-0",
-        "1664424486a2b084ab-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "full_width": true,
-        "images_layout": "scattered",
-        "collage_images_alignment": "middle",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
+        "text_color": ""
       }
     },
     "faq": {
@@ -533,10 +351,7 @@
     "logo_list_gRjPe8",
     "video_TCLTnT",
     "rich_text_4q4rQT",
-    "media-grid",
-    "press",
-    "hot-spots",
-    "multiple-images-with-text",
+    "multi_column_GVnKUy",
     "faq",
     "contact_pAbjmN"
   ]
