@@ -566,8 +566,8 @@
         "item_rNMgWC": {
           "type": "item",
           "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "title": "Est-ce compatible avec mon téléphone ou mon ordinateur portable ?",
+            "content": "<p>Oui !<br/><br/>Compatible avec iOS, Android, Mac, Windows, tablettes, montres connectées…<br/>Bref, avec tout appareil équipé du Bluetooth.</p>"
           }
         }
       },
