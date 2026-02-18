@@ -93,14 +93,14 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Sign up for new stories and personal offers",
-            "content": ""
+            "title": "Souscrire à notre newsletter",
+            "content": "<p>Soyez les premiers informés de nos offres et promotions!</p>"
           }
         },
         "links": {
           "type": "links",
           "settings": {
-            "menu": "footer",
+            "menu": "liens-utiles",
             "show_menu_title": true,
             "menu_title": ""
           }
@@ -108,8 +108,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "title": "Nous contacter",
+            "content": "<p>Service client: contact@earobuds.com</p><p></p><p>Du Lun au Ven de 9h à 12h et de 14h à 18h - Sam et Dim de 10h à 12h</p>",
             "enable_follow_on_shop": true
           }
         }
