@@ -78,28 +78,32 @@
         "logo_wyXMei": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/EaroBuds_press2_81c3829d-abdf-4824-ba69-c02217f79b79.png",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_eJ74Ta": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/EaroBuds_press3_8d28aa3f-6ed4-4393-af03-8f1d3ca0ce37.png",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_RdDkBa": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/EaroBuds_press4_3b6c7dfc-d8a0-4826-8ca6-09c18b22acb0.png",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_LaKEnc": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/EaroBuds_press5_3026100a-d8a9-47ca-8097-bc3f060145a5.png",
+            "logo_width": 300,
             "link": ""
           }
         }
