@@ -70,7 +70,8 @@
         "logo_k3nH6G": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/EaroBuds_press1.png",
+            "logo_width": 300,
             "link": ""
           }
         },
