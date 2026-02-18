@@ -12,19 +12,17 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "vendor",
-          "settings": {}
+        "liquid_BckYdQ": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
         },
         "title": {
           "type": "title",
           "settings": {
-            "heading_tag": "h2"
+            "heading_tag": "h3"
           }
-        },
-        "badges": {
-          "type": "badges",
-          "settings": {}
         },
         "price": {
           "type": "price",
@@ -32,10 +30,16 @@
             "show_taxes_notice": false
           }
         },
-        "rating": {
-          "type": "rating",
+        "liquid_dwMK8W": {
+          "type": "liquid",
           "settings": {
-            "show_empty": false
+            "liquid": "<style>\n  .trustpilot-score {\n    display: flex;\n    align-items: center; /* aligne verticalement tout sur une ligne */\n    gap: 8px; /* espace entre les éléments */\n    margin-top: 10px;\n    font-weight: bold;\n  }\n\n  .trustpilot-score img {\n    max-width: 90px;\n    height: auto;\n  }\n\n  .trustpilot-score .reviews {\n    font-weight: normal;\n    white-space: nowrap; /* empêche le retour à la ligne */\n  }\n</style>\n\n<div class=\"trustpilot-score\">\n  <span>4.7</span>\n  <img src=\"https://cdn.shopify.com/s/files/1/1009/2016/4683/files/stars-5-1.svg?v=1769783795\" alt=\"Avis clients\">\n  <span class=\"reviews\">(478 avis)</span>\n</div>"
+          }
+        },
+        "liquid_kr7BMD": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "✅ Taille mini & discrète</br>\n✅ Son de qualité supérieure</br>\n✅ Confort et ergonomie</br>\n✅ Connectivité rapide & universelle</br>\n✅ Autonomie & recharge pratique</br>"
           }
         },
         "payment_terms": {
@@ -82,11 +86,11 @@
         }
       },
       "block_order": [
-        "vendor",
+        "liquid_BckYdQ",
         "title",
-        "badges",
         "price",
-        "rating",
+        "liquid_dwMK8W",
+        "liquid_kr7BMD",
         "payment_terms",
         "separator",
         "description",
