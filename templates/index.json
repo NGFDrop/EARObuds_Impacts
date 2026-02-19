@@ -496,7 +496,7 @@
             "column_size": "4",
             "title": "Sport & Mouvement",
             "heading_tag": "h5",
-            "content": "<p>Conçus pour bouger, pensés pour durer</p><ul><li><strong>Ultra mini & légers</strong> : aucune pression, aucun inconfort</li><li><strong>Tenue stable</strong> : parfaits pour le sport, la marche et le quotidien</li><li><strong>Autonomie visible</strong> : écran digital pour garder le contrôle</li><li><strong>Liberté totale</strong> : aucun câble, aucun poids inutile</li></ul><p>Que tu sois en séance de sport, en déplacement ou simplement actif au quotidien,<br/>EaroBuds Mini suivent ton rythme, pas l’inverse.</p>",
+            "content": "<p>Conçus pour bouger, pensés pour durer</p><ul><li><strong>Ultra mini & légers</strong> : aucune pression, aucun inconfort</li><li><strong>Tenue stable</strong> : parfaits pour le sport, la marche et le quotidien</li><li><strong>Autonomie visible</strong> : écran digital pour garder le contrôle</li><li><strong>Liberté totale</strong> : aucun câble, aucun poids inutile</li></ul><p>Que tu sois en séance de sport, en déplacement ou simplement actif au quotidien,<br/><strong>EaroBuds Mini </strong>suivent ton rythme, pas l’inverse.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -509,7 +509,7 @@
             "column_size": "4",
             "title": "Musique & Films",
             "heading_tag": "h5",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Plonge au cœur du son et de l’émotion</p><ul><li><strong>Son clair et immersif</strong> : idéal pour musique, films et séries</li><li><strong>Voix précises</strong> : dialogues nets, sans effort</li><li><strong>Autonomie visible</strong> : écran digital pour regarder sans interruption</li><li><strong>Ultra discrets</strong> : parfaits pour le soir, les voyages et le quotidien</li></ul><p>Que tu sois chez toi, dans les transports ou en déplacement,<br/><strong>EaroBuds Mini</strong> transforment chaque moment en expérience cinéma.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -535,7 +535,7 @@
             "column_size": "4",
             "title": "Sommeil & Détente",
             "heading_tag": "h5",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Le calme, tout simplement</p><ul><li><strong>Ultra discrets</strong> : idéals pour dormir sur le côté</li><li><strong>Son doux et équilibré</strong> : musique relaxante, podcasts, bruits blancs</li><li><strong>Autonomie visible</strong> : aucun stress de batterie pendant la nuit</li><li><strong>Isolation naturelle</strong> : aide à se couper du monde</li></ul><p>Que ce soit pour méditer, t’endormir ou simplement te détendre après une longue journée,<br/><strong>EaroBuds Mini</strong> créent ton espace de tranquillité.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -565,18 +565,6 @@
     "multiple_images_with_text_Xfi4e6": {
       "type": "multiple-images-with-text",
       "blocks": {
-        "item_wHTAme": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/PHOTO-2026-02-18-17-44-56.jpg",
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "Sport & Mouvement",
-            "content": "",
-            "button_url": "",
-            "button_text": ""
-          }
-        },
         "item_XbczXT": {
           "type": "item",
           "settings": {
@@ -584,7 +572,7 @@
             "image_rotation_degrees": 1.5,
             "subheading": "",
             "title": "Musique & Films",
-            "content": "<h4>Plonge au cœur du son et de l’émotion</h4><p>Ferme les yeux, appuie sur <em>play</em> et laisse le son t’emporter.<br/>Les <strong>EaroBuds Mini</strong> offrent une expérience immersive pour la musique, les films et les séries. Leur design ultra mini et leur son clair et équilibré révèlent chaque détail : basses profondes, voix nettes et dialogues parfaitement clairs, même à faible volume.</p><h4>Pourquoi EaroBuds sont parfaits pour la musique & les films ?</h4><ul><li><strong>Son clair et immersif</strong> : idéal pour musique, films et séries</li><li><strong>Voix précises</strong> : dialogues nets, sans effort</li><li><strong>Autonomie visible</strong> : écran digital pour regarder sans interruption</li><li><strong>Ultra discrets</strong> : parfaits pour le soir, les voyages et le quotidien</li></ul><p>Que tu sois chez toi, dans les transports ou en déplacement,<br/><strong>EaroBuds transforment chaque moment en expérience cinéma.</strong></p>",
+            "content": "<h4></h4><p>Ferme les yeux, appuie sur <em>play</em> et laisse le son t’emporter.<br/>Les <strong>EaroBuds Mini</strong> offrent une expérience immersive pour la musique, les films et les séries. Leur design ultra mini et leur son clair et équilibré révèlent chaque détail : basses profondes, voix nettes et dialogues parfaitement clairs, même à faible volume.</p><h4>Pourquoi EaroBuds sont parfaits pour la musique & les films ?</h4><p></p>",
             "button_url": "",
             "button_text": ""
           }
@@ -596,14 +584,13 @@
             "image_rotation_degrees": 0,
             "subheading": "",
             "title": "Sommeil & Détente",
-            "content": "<h4>Le calme, tout simplement</h4><p>Après une longue journée, il est temps de ralentir.<br/>Les <strong>EaroBuds Mini</strong>, ultra discrets et confortables, t’accompagnent dans tes moments de détente et de sommeil. Leur son doux et équilibré est parfait pour la relaxation ou les bruits blancs.<br/><strong>Une bulle de tranquillité, rien que pour toi.</strong></p><h4>EaroBuds sont parfaits pour le sommeil & la détente ?</h4><ul><li><strong>Ultra discrets</strong> : idéals pour dormir sur le côté</li><li><strong>Son doux et équilibré</strong> : musique relaxante, podcasts, bruits blancs</li><li><strong>Autonomie visible</strong> : aucun stress de batterie pendant la nuit</li><li><strong>Isolation naturelle</strong> : aide à se couper du monde</li></ul><p>Que ce soit pour méditer, t’endormir ou simplement te détendre après une longue journée,<br/><strong>EaroBuds créent ton espace de tranquillité.</strong></p>",
+            "content": "<h4></h4><p>Après une longue journée, il est temps de ralentir.<br/>Les <strong>EaroBuds Mini</strong>, ultra discrets et confortables, t’accompagnent dans tes moments de détente et de sommeil. Leur son doux et équilibré est parfait pour la relaxation ou les bruits blancs.<br/><strong>Une bulle de tranquillité, rien que pour toi.</strong></p><h4>EaroBuds sont parfaits pour le sommeil & la détente ?</h4><p></p>",
             "button_url": "",
             "button_text": ""
           }
         }
       },
       "block_order": [
-        "item_wHTAme",
         "item_XbczXT",
         "item_awQeVX"
       ],
