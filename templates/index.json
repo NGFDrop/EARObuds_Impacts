@@ -494,32 +494,6 @@
         "overlay_opacity": 0
       }
     },
-    "rich_text_kWrPDJ": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_GmhTix": {
-          "type": "heading",
-          "settings": {
-            "text": "Le son invisible, l’impact maximum",
-            "heading_tag": "h2",
-            "text_color": "#1a1a1a",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_GmhTix"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "image_with_text_overlay_hnpMTA": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -528,7 +502,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/EaroBuds_copy_5.png",
+        "image": "shopify://shop_images/EaroBuds_copy_6.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -802,7 +776,6 @@
     "multi_column_ADcAFA",
     "featured_product_jAmLm7",
     "image_with_text_overlay_QNeViq",
-    "rich_text_kWrPDJ",
     "image_with_text_overlay_hnpMTA",
     "multiple_images_with_text_Xfi4e6",
     "1771441483f3c0bbb4",
