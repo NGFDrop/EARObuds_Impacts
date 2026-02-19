@@ -493,10 +493,10 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/PHOTO-2026-02-18-17-44-56.jpg",
-            "column_size": "2",
-            "title": "Sport & Mouvement",
+            "column_size": "4",
+            "title": "Conçus pour bouger, pensés pour durer",
             "heading_tag": "h5",
-            "content": "<h6>Conçus pour bouger, pensés pour durer</h6><ul><li><h6>Ultra mini & légers : aucune pression, aucun inconfort</h6></li><li><h6>Tenue stable : parfaits pour le sport, la marche et le quotidien</h6></li><li><h6>Autonomie visible : écran digital pour garder le contrôle</h6></li><li><h6>Liberté totale : aucun câble, aucun poids inutile</h6></li></ul><h6>Que tu sois en séance de sport, en déplacement ou simplement actif au quotidien,<br/>EaroBuds suivent ton rythme, pas l’inverse.</h6>",
+            "content": "<h6></h6><ul><li><h6>Ultra mini & légers : aucune pression, aucun inconfort</h6></li><li><h6>Tenue stable : parfaits pour le sport, la marche et le quotidien</h6></li><li><h6>Autonomie visible : écran digital pour garder le contrôle</h6></li><li><h6>Liberté totale : aucun câble, aucun poids inutile</h6></li></ul><h6>Que tu sois en séance de sport, en déplacement ou simplement actif au quotidien,<br/>EaroBuds suivent ton rythme, pas l’inverse.</h6>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
