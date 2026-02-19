@@ -12,13 +12,6 @@
     "image_with_text_overlay_Jwqg7g": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "subheading_LBQnMH": {
-          "type": "subheading",
-          "disabled": true,
-          "settings": {
-            "text": "Écouteurs mini, son immense — petits par la taille, puissants par l’expérience."
-          }
-        },
         "heading_LVy3wF": {
           "type": "heading",
           "settings": {
@@ -45,7 +38,6 @@
         }
       },
       "block_order": [
-        "subheading_LBQnMH",
         "heading_LVy3wF",
         "button_66VUYE",
         "richtext_kLGTEM"
