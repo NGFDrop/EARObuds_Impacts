@@ -486,6 +486,78 @@
         "overlay_opacity": 0
       }
     },
+    "multi_column_L6TA7G": {
+      "type": "multi-column",
+      "blocks": {
+        "item_bjVEzz": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "Sport & Mouvement",
+            "heading_tag": "h5",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_KRYGrU": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "Musique & Films",
+            "heading_tag": "h5",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_tTBwKR": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "Travail & Concentration",
+            "heading_tag": "h5",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_8UnLUt": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "Sommeil & Détente",
+            "heading_tag": "h5",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_bjVEzz",
+        "item_KRYGrU",
+        "item_tTBwKR",
+        "item_8UnLUt"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "multiple_images_with_text_Xfi4e6": {
       "type": "multiple-images-with-text",
       "blocks": {
@@ -752,6 +824,7 @@
     "multi_column_ADcAFA",
     "featured_product_jAmLm7",
     "image_with_text_overlay_hnpMTA",
+    "multi_column_L6TA7G",
     "multiple_images_with_text_Xfi4e6",
     "1771441483f3c0bbb4",
     "faq",
