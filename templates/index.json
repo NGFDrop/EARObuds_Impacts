@@ -33,7 +33,7 @@
         "richtext_kLGTEM": {
           "type": "richtext",
           "settings": {
-            "content": "<h6>Découvrez les EAROBUDS, les écouteurs sans fil les plus compacts et performants du marché.</h6><h6>✔ Taille mini & discrète<br/>✔ Son de qualité supérieure<br/>✔ Confort et ergonomie<br/>✔ Connectivité rapide & universelle<br/>✔ Autonomie & recharge pratique<br/>✔ Polyvalent & lifestyle<br/>✔ Style futuriste & moderne</h6>"
+            "content": "<h6>Découvrez les <strong>EAROBUDS mini</strong>, les écouteurs sans fil les plus compacts et performants du marché.</h6><h6>✔ Mini & discrètes<br/>✔ Son de qualité supérieure<br/>✔ Confort & ergonomie<br/>✔ Connectivité rapide & universelle<br/>✔ Autonomie & recharge pratique</h6>"
           }
         }
       },
@@ -50,7 +50,7 @@
         "image_size": "lg",
         "image": "shopify://shop_images/EaroBuds.png",
         "mobile_image": "shopify://shop_images/PHOTO-2026-02-18-13-38-11.jpg",
-        "mobile_text_position": "place-self-start text-start",
+        "mobile_text_position": "place-self-end-start text-start",
         "desktop_text_position": "sm:place-self-end-center sm:text-center",
         "text_color": "#f0f0f0",
         "overlay_color": "#000000",
