@@ -158,7 +158,7 @@
         "desktop_text_position": "sm:place-self-start-center sm:text-center",
         "text_color": "#1a1a1a",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "related-products": {
