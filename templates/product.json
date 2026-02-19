@@ -133,6 +133,34 @@
         "input_text_color": ""
       }
     },
+    "image_with_text_overlay_gWyaRj": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_iFnJmn": {
+          "type": "heading",
+          "settings": {
+            "text": "Comment ça marche ?",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_iFnJmn"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/EaroBuds_copy_6.png",
+        "mobile_text_position": "place-self-start text-start",
+        "desktop_text_position": "sm:place-self-start-center sm:text-center",
+        "text_color": "#1a1a1a",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -187,6 +215,7 @@
   },
   "order": [
     "main",
+    "image_with_text_overlay_gWyaRj",
     "related-products",
     "177144146403cc361e"
   ]
