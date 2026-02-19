@@ -33,7 +33,7 @@
         "richtext_kLGTEM": {
           "type": "richtext",
           "settings": {
-            "content": "<h6>Découvrez les <strong>EAROBUDS mini</strong>, les écouteurs sans fil les plus compacts et performants du marché.</h6><p>✔ Mini & discrètes<br/>✔ Son de qualité supérieure<br/>✔ Confort & ergonomie<br/>✔ Connectivité rapide & universelle<br/>✔ Autonomie & recharge pratique</p>"
+            "content": "<p>Découvrez les <strong>EAROBUDS mini</strong>, les écouteurs sans fil les plus compacts et performants du marché.</p><p>✔ Mini & discrètes<br/>✔ Son de qualité supérieure<br/>✔ Confort & ergonomie<br/>✔ Connectivité rapide & universelle<br/>✔ Autonomie & recharge pratique</p>"
           }
         }
       },
