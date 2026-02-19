@@ -14,6 +14,7 @@
       "blocks": {
         "subheading_LBQnMH": {
           "type": "subheading",
+          "disabled": true,
           "settings": {
             "text": "Écouteurs mini, son immense — petits par la taille, puissants par l’expérience."
           }
@@ -21,8 +22,8 @@
         "heading_LVy3wF": {
           "type": "heading",
           "settings": {
-            "text": "EAROBUDS – Le son invisible, l’impact maximum",
-            "heading_tag": "h3"
+            "text": "Le son invisible, l’impact maximum",
+            "heading_tag": "h1"
           }
         },
         "button_66VUYE": {
