@@ -15,8 +15,14 @@
         "heading_LVy3wF": {
           "type": "heading",
           "settings": {
-            "text": "Le son invisible, l’impact maximum",
+            "text": "Écouteurs invisibles, Liberté totale",
             "heading_tag": "h1"
+          }
+        },
+        "subheading_znmr66": {
+          "type": "subheading",
+          "settings": {
+            "text": "Les mini écouteurs sans fil ultra discrets pour travailler, bouger et se détendre — sans gêne."
           }
         },
         "button_66VUYE": {
@@ -33,12 +39,13 @@
         "richtext_kLGTEM": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Découvrez les <strong>EAROBUDS mini</strong>, les écouteurs sans fil les plus compacts et performants du marché.</p><p>✔ Mini & discrètes<br/>✔ Son de qualité supérieure<br/>✔ Confort & ergonomie<br/>✔ Connectivité rapide & universelle<br/>✔ Autonomie & recharge pratique</p>"
+            "content": "<p>✔ <strong>Ultra mini & invisibles </strong>– personne ne les remarque <br/>✔ <strong>Confort toute la journée</strong> – aucune pression dans l’oreille<br/>✔ <strong>Son clair & connexion instantanée</strong> – </p>"
           }
         }
       },
       "block_order": [
         "heading_LVy3wF",
+        "subheading_znmr66",
         "button_66VUYE",
         "richtext_kLGTEM"
       ],
@@ -155,82 +162,6 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 30
-      }
-    },
-    "multi_column_GVnKUy": {
-      "type": "multi-column",
-      "blocks": {
-        "item_XrJkxF": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/16.png",
-            "column_size": "4",
-            "title": "Une autonomie longue durée",
-            "heading_tag": "h5",
-            "content": "<p>Dotés d’une batterie haute capacité, ces écouteurs garantissent une autonomie exceptionnelle, idéale pour les journées intensives et les longs trajets.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_hQ7CRH": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_18_fevr._2026_17_53_37.png",
-            "column_size": "4",
-            "title": "Un design compact et élégant",
-            "heading_tag": "h5",
-            "content": "<p>Un design compact et élégant, aux finitions soignées, conçu pour ceux qui recherchent à la fois style, confort et performance.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_MgND7q": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/19.png",
-            "column_size": "4",
-            "title": "Une connexion rapide et stable",
-            "heading_tag": "h5",
-            "content": "<p>Équipés d’un Bluetooth de dernière génération, ces écouteurs offrent un appairage ultra-rapide et une stabilité renforcée. Une qualité audio constante pour une expérience sans compromis.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_WfDzFa": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_18_fevr._2026_17_50_26.png",
-            "column_size": "4",
-            "title": "Un son clair et puissant",
-            "heading_tag": "h5",
-            "content": "<p>Profitez d’un son clair et puissant qui vous plonge au cœur de votre musique, avec des basses percutantes et une clarté exceptionnelle, même à volume élevé.</p><h3></h3>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_XrJkxF",
-        "item_hQ7CRH",
-        "item_MgND7q",
-        "item_WfDzFa"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Technologie de pointe au service du son",
-        "content": "<p>Découvrez une technologie avancée conçue pour offrir une expérience audio supérieure.</p>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "rich_text_4q4rQT": {
@@ -544,6 +475,82 @@
         "background": "#2c7ef4",
         "background_gradient": "",
         "text_color": "#f0f0f0"
+      }
+    },
+    "multi_column_GVnKUy": {
+      "type": "multi-column",
+      "blocks": {
+        "item_XrJkxF": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/16.png",
+            "column_size": "4",
+            "title": "Une autonomie longue durée",
+            "heading_tag": "h5",
+            "content": "<p>Dotés d’une batterie haute capacité, ces écouteurs garantissent une autonomie exceptionnelle, idéale pour les journées intensives et les longs trajets.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_hQ7CRH": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_18_fevr._2026_17_53_37.png",
+            "column_size": "4",
+            "title": "Un design compact et élégant",
+            "heading_tag": "h5",
+            "content": "<p>Un design compact et élégant, aux finitions soignées, conçu pour ceux qui recherchent à la fois style, confort et performance.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_MgND7q": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/19.png",
+            "column_size": "4",
+            "title": "Une connexion rapide et stable",
+            "heading_tag": "h5",
+            "content": "<p>Équipés d’un Bluetooth de dernière génération, ces écouteurs offrent un appairage ultra-rapide et une stabilité renforcée. Une qualité audio constante pour une expérience sans compromis.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_WfDzFa": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_18_fevr._2026_17_50_26.png",
+            "column_size": "4",
+            "title": "Un son clair et puissant",
+            "heading_tag": "h5",
+            "content": "<p>Profitez d’un son clair et puissant qui vous plonge au cœur de votre musique, avec des basses percutantes et une clarté exceptionnelle, même à volume élevé.</p><h3></h3>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_XrJkxF",
+        "item_hQ7CRH",
+        "item_MgND7q",
+        "item_WfDzFa"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Technologie de pointe au service du son",
+        "content": "<p>Découvrez une technologie avancée conçue pour offrir une expérience audio supérieure.</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "image_with_text_overlay_hnpMTA": {
