@@ -27,7 +27,7 @@
         "liquid_dwMK8W": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  .trustpilot-score {\n    display: flex;\n    align-items: center; /* aligne verticalement tout sur une ligne */\n    gap: 8px; /* espace entre les éléments */\n    margin-top: 10px;\n    font-weight: bold;\n  }\n\n  .trustpilot-score img {\n    max-width: 90px;\n    height: auto;\n  }\n\n  .trustpilot-score .reviews {\n    font-weight: normal;\n    white-space: nowrap; /* empêche le retour à la ligne */\n  }\n</style>\n\n<div class=\"trustpilot-score\">\n  <span>4.7</span>\n  <img src=\"https://cdn.shopify.com/s/files/1/1009/2016/4683/files/stars-5-1.svg?v=1769783795\" alt=\"Avis clients\">\n  <span class=\"reviews\">(478 avis)</span>\n</div>"
+            "liquid": "<style>\n  .trustpilot-score {\n    display: flex;\n    align-items: center; /* aligne verticalement tout sur une ligne */\n    gap: 8px; /* espace entre les éléments */\n    margin-top: 10px;\n    font-weight: bold;\n  }\n\n  .trustpilot-score img {\n    max-width: 90px;\n    height: auto;\n  }\n\n  .trustpilot-score .reviews {\n    font-weight: normal;\n    white-space: nowrap; /* empêche le retour à la ligne */\n  }\n</style>\n\n<div class=\"trustpilot-score\">\n  <span>4.7</span>\n  <img src=\"https://cdn.shopify.com/s/files/1/1009/2016/4683/files/stars-5-1.svg?v=1769783795\" alt=\"Avis clients\">\n  <span class=\"reviews\">(478 avis)</span>\n</div>\nDéjà adoptés par des milliers d’utilisateurs en Europe"
           }
         },
         "liquid_kr7BMD": {
@@ -58,7 +58,7 @@
         "liquid_BckYdQ": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  p {\n    font-size: 14px;\n    line-height: 2;\n  }\n</style>\n\n<p>● +5 clientes nous ont fait confiance cette semaine</p>\n<p>● Satisfait ou remboursé - 14 jours</p>\n<p>● Paiement 100% sécurisé</p>\n<p>● Livraison gratuite avec suivi sous 5 à 10 jours ouvrés</p>\n<p>● Expédition: FR, BE, CH, LU</p>\n<br/>\n💚 Économisez davantage avec le pack couple (le plus choisi)"
+            "liquid": "<style>\n  p {\n    font-size: 14px;\n    line-height: 2;\n  }\n</style>\n\n<p>● +5 clientes nous ont fait confiance cette semaine</p>\n<p>● Satisfait ou remboursé - 14 jours</p>\n<p>● Paiement 100% sécurisé</p>\n<p>● Livraison gratuite avec suivi sous 5 à 10 jours ouvrés</p>\n<p>● Expédition: FR, BE, CH, LU</p>\n<br/>\nStock limité – forte demande cette semaine"
           }
         },
         "buy_buttons_LNaQhr": {
