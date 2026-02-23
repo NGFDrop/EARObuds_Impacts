@@ -165,6 +165,82 @@
         "overlay_opacity": 30
       }
     },
+    "multi_column_Q7aLXE": {
+      "type": "multi-column",
+      "blocks": {
+        "item_YLGLPQ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/16.png",
+            "column_size": "4",
+            "title": "Une autonomie longue durée",
+            "heading_tag": "h4",
+            "content": "<p>Dotés d’une batterie haute capacité, ces écouteurs garantissent une autonomie exceptionnelle, idéale pour les journées intensives et les longs trajets.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_bbGjR7": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/19.png",
+            "column_size": "4",
+            "title": "Un design compact et élégant",
+            "heading_tag": "h4",
+            "content": "<p>Un design compact et élégant, aux finitions soignées, conçu pour ceux qui recherchent à la fois style, confort et performance.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_wm6m7W": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/23.png",
+            "column_size": "4",
+            "title": "Une connexion rapide et stable",
+            "heading_tag": "h4",
+            "content": "<p>Équipés d’un Bluetooth de dernière génération, ces écouteurs offrent un appairage ultra-rapide et une stabilité renforcée. Une qualité audio constante pour une expérience sans compromis.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_zQPmNz": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/22.png",
+            "column_size": "4",
+            "title": "Un son clair et puissant",
+            "heading_tag": "h4",
+            "content": "<p>Profitez d’un son clair et puissant qui vous plonge au cœur de votre musique, avec des basses percutantes et une clarté exceptionnelle, même à volume élevé.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_YLGLPQ",
+        "item_bbGjR7",
+        "item_wm6m7W",
+        "item_zQPmNz"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "About",
+        "title": "Technologie de pointe au service du son",
+        "content": "<p>Découvrez une technologie avancée conçue pour offrir une expérience audio supérieure.</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "rich_text_CcHCzT": {
       "type": "rich-text",
       "blocks": {
@@ -233,6 +309,7 @@
   "order": [
     "main",
     "video_ydjrhQ",
+    "multi_column_Q7aLXE",
     "rich_text_CcHCzT",
     "image_with_text_overlay_gWyaRj",
     "related-products"
