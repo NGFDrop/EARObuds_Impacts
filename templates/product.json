@@ -448,7 +448,7 @@
             "limit": 7,
             "hide_thumbnails": false,
             "maxwidth": 1080,
-            "is_sample": true
+            "is_sample": false
           }
         }
       },
