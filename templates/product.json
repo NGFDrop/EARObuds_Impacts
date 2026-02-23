@@ -233,7 +233,7 @@
         "stack_on_mobile": false,
         "gap": "medium",
         "text_alignment": "center",
-        "subheading": "About",
+        "subheading": "",
         "title": "Technologie de pointe au service du son",
         "content": "<p>Découvrez une technologie avancée conçue pour offrir une expérience audio supérieure.</p>",
         "background": "",
@@ -263,6 +263,82 @@
         "content_width": "large",
         "text_position": "center",
         "background": "#2c7ef4",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_JzyNjk": {
+      "type": "multi-column",
+      "blocks": {
+        "item_jq8yke": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/duc-quynh nguyen_s Video - Feb 18, 2026.mp4",
+            "column_size": "4",
+            "title": "Mike M.",
+            "heading_tag": "h4",
+            "content": "<p>★★★★★</p><p>Je les utilise tous les jours au travail, dans les transports et à la maison. Les <strong>EAROBUDS</strong> sont ultra confortables, je les oublie complètement dans mes oreilles. Le son est clair et l’autonomie tient largement la journée. Un vrai gain de liberté.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_mKqDBc": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/duc-quynh nguyen_s Video - Feb 18, 2026 copy 2.mp4",
+            "column_size": "4",
+            "title": "Sofie L.",
+            "heading_tag": "h4",
+            "content": "<p>★★★★★</p><p>J’ai souvent mal aux oreilles avec d’autres écouteurs, mais pas avec les <strong>EAROBUDS</strong>. Ils sont légers, discrets et tiennent parfaitement, même pendant de longues heures. Parfaits pour les appels, la musique et les podcasts.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_BcGxRR": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/duc-quynh nguyen_s Video - Feb 18, 2026 copy.mp4",
+            "column_size": "4",
+            "title": "Roberto P.",
+            "heading_tag": "h4",
+            "content": "<p>★★★★★</p><p>Dès que j’ouvre le boîtier, ils se connectent automatiquement à mon téléphone. Aucun bug, aucun délai. Je passe facilement des appels, j’écoute ma musique en marchant ou en travaillant. Très pratiques au quotidien.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_wMmwVg": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/duc-quynh nguyen_s Video - Feb 18, 2026 copy 3.mp4",
+            "column_size": "4",
+            "title": "Carla R.",
+            "heading_tag": "h4",
+            "content": "<p>★★★★★</p><p>Je recharge le boîtier très rarement. Entre le travail, le sport et les trajets, les <strong>EAROBUDS</strong> me suivent partout sans stress de batterie. Le design est en plus très élégant et discret.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_jq8yke",
+        "item_mKqDBc",
+        "item_BcGxRR",
+        "item_wMmwVg"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Rejoignez nos clients satisfaits",
+        "content": "",
+        "background": "",
         "background_gradient": "",
         "text_color": ""
       }
@@ -311,6 +387,7 @@
     "video_ydjrhQ",
     "multi_column_Q7aLXE",
     "rich_text_CcHCzT",
+    "multi_column_JzyNjk",
     "image_with_text_overlay_gWyaRj",
     "related-products"
   ]
