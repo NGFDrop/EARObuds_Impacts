@@ -133,6 +133,38 @@
         "input_text_color": ""
       }
     },
+    "video_ydjrhQ": {
+      "type": "video",
+      "blocks": {
+        "play_TdmXPj": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_8HRMYR": {
+          "type": "heading",
+          "settings": {
+            "text": "Plongez vous au coeur de l'expérience",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_TdmXPj",
+        "heading_8HRMYR"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "video": "shopify://files/videos/duc-quynh nguyen_s Vidéo - 19 févr. 2026_a7405a86-be6a-4010-9bd1-c00f0954fe75.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "rich_text_CcHCzT": {
       "type": "rich-text",
       "blocks": {
@@ -200,6 +232,7 @@
   },
   "order": [
     "main",
+    "video_ydjrhQ",
     "rich_text_CcHCzT",
     "image_with_text_overlay_gWyaRj",
     "related-products"
