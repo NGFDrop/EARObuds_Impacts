@@ -52,9 +52,9 @@
         "mobile_image": "shopify://shop_images/76a62e58-ffb3-446b-95fd-670c05d61133.webp",
         "mobile_text_position": "place-self-end text-end",
         "desktop_text_position": "sm:place-self-start sm:text-start",
-        "text_color": "#fff4ec",
+        "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 20
+        "overlay_opacity": 35
       }
     },
     "logo_list_gRjPe8": {
