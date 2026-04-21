@@ -306,6 +306,7 @@
         "item_jq8yke": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/af89c212-17d2-4f1c-a112-45c552bcd24a.jpg",
             "column_size": "4",
             "title": "Clara R.",
             "heading_tag": "h4",
