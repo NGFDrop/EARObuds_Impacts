@@ -282,7 +282,6 @@
         "item_Rzrk7e": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/duc-quynh nguyen_s Video - Feb 18, 2026.mp4",
             "column_size": "4",
             "title": "Mike M.",
             "heading_tag": "h5",
@@ -461,7 +460,7 @@
       "name": "Featured product",
       "settings": {
         "full_width": true,
-        "product": "ecouteurs-de-sommeil-sans-fil-bluetooth-sk26-suppression-du-bruit-oreillettes-discretes-mini-casque-invisible-avec-micro-pour-le-sport",
+        "product": "dingsen-cils-magnetiques-doux-avec-ensemble-de-colle-pinces-a-cils-magnetiques-reutilisables-ensemble-de-cils-pincettes-magnetiques-naturelles-3d-faites-a-la-main",
         "desktop_media_width": 50,
         "desktop_media_layout": "carousel_thumbnails_bottom",
         "mobile_media_size": "expanded",
