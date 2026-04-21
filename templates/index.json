@@ -228,7 +228,7 @@
         "subheading": "",
         "title": "Technologie de pointe au service du son",
         "content": "<p>Découvrez une technologie avancée conçue pour offrir une expérience audio supérieure.</p>",
-        "background": "#fff4ec",
+        "background": "rgba(0,0,0,0)",
         "background_gradient": "",
         "text_color": ""
       }
@@ -241,7 +241,7 @@
           "settings": {
             "text": "Invisible à l’œil. Inoubliable à l’oreille",
             "heading_tag": "h3",
-            "text_color": "#f2f2f2",
+            "text_color": "#1a1a1a",
             "gradient": ""
           }
         },
@@ -264,7 +264,7 @@
         "full_width": true,
         "content_width": "large",
         "text_position": "center",
-        "background": "#fff4ec",
+        "background": "rgba(0,0,0,0)",
         "background_gradient": "",
         "text_color": ""
       }
