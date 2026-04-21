@@ -75,7 +75,6 @@
         "image_Ap4H3R": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/2.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -142,6 +141,32 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "rich_text_CcHCzT": {
+      "type": "rich-text",
+      "blocks": {
+        "image_cQYAwe": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/6cb20eaa-ad13-4a8b-9ab4-e791e9fc3f0e.jpg",
+            "width_mode": "full_width",
+            "max_width": 1000,
+            "mobile_max_width": 600
+          }
+        }
+      },
+      "block_order": [
+        "image_cQYAwe"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "large",
+        "text_position": "center",
+        "background": "rgba(0,0,0,0)",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "video_ydjrhQ": {
@@ -233,39 +258,13 @@
         "button_text_color": ""
       }
     },
-    "rich_text_CcHCzT": {
-      "type": "rich-text",
-      "blocks": {
-        "image_cQYAwe": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/6cb20eaa-ad13-4a8b-9ab4-e791e9fc3f0e.jpg",
-            "width_mode": "full_width",
-            "max_width": 1000,
-            "mobile_max_width": 600
-          }
-        }
-      },
-      "block_order": [
-        "image_cQYAwe"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "large",
-        "text_position": "center",
-        "background": "rgba(0,0,0,0)",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "multi_column_JzyNjk": {
       "type": "multi-column",
       "blocks": {
         "item_wMmwVg": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Wha_e_tsApp_Image_2026-01-24_at_09.39.49_e56bd354-aeb3-44bd-bc8e-262c71099e4b.jpg",
+            "video": "shopify://files/videos/video_1776804669651.mp4",
             "column_size": "4",
             "title": "Vanessa R.",
             "heading_tag": "h4",
