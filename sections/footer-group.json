@@ -11,10 +11,10 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
-    "text-with-icons": {
+    "text_with_icons_iNGVM8": {
       "type": "text-with-icons",
       "blocks": {
-        "free-shipping": {
+        "item_4Qf7ma": {
           "type": "item",
           "settings": {
             "icon": "picto-box",
@@ -27,7 +27,7 @@
             "content": ""
           }
         },
-        "customer-support": {
+        "item_nY64W9": {
           "type": "item",
           "settings": {
             "icon": "picto-customer-support",
@@ -40,7 +40,7 @@
             "content": ""
           }
         },
-        "discount": {
+        "item_jwrcPV": {
           "type": "item",
           "settings": {
             "icon": "picto-return",
@@ -53,7 +53,7 @@
             "content": ""
           }
         },
-        "payment": {
+        "item_4mkXzG": {
           "type": "item",
           "settings": {
             "icon": "picto-lock",
@@ -68,10 +68,10 @@
         }
       },
       "block_order": [
-        "free-shipping",
-        "customer-support",
-        "discount",
-        "payment"
+        "item_4Qf7ma",
+        "item_nY64W9",
+        "item_jwrcPV",
+        "item_4mkXzG"
       ],
       "settings": {
         "full_width": true,
@@ -131,7 +131,7 @@
     }
   },
   "order": [
-    "text-with-icons",
+    "text_with_icons_iNGVM8",
     "footer"
   ]
 }
