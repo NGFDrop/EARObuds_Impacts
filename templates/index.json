@@ -282,8 +282,9 @@
         "item_Rzrk7e": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Wha_e_tsApp_Image_2026-01-24_at_09.39.49.jpg",
             "column_size": "4",
-            "title": "Mike M.",
+            "title": "Vanessa C.",
             "heading_tag": "h5",
             "content": "<p>★★★★★</p><p>Je les utilise tous les jours au travail, dans les transports et à la maison. Les <strong>EAROBUDS</strong> sont ultra confortables, je les oublie complètement dans mes oreilles. Le son est clair et l’autonomie tient largement la journée. Un vrai gain de liberté.</p>",
             "link_url": "",
@@ -294,7 +295,7 @@
         "item_PpQCQE": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/duc-quynh nguyen_s Video - Feb 18, 2026 copy 2.mp4",
+            "image": "shopify://shop_images/WhatsApp_Image_2026-01-24_at_09.39.23213.jpg",
             "column_size": "4",
             "title": "Sofie L.",
             "heading_tag": "h5",
@@ -307,9 +308,9 @@
         "item_RVwaVb": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/duc-quynh nguyen_s Video - Feb 18, 2026 copy.mp4",
+            "image": "shopify://shop_images/WhatsApp_Image_2026-01-23_at_22.34.22.jpg",
             "column_size": "4",
-            "title": "Roberto P.",
+            "title": "Alexia P.",
             "heading_tag": "h5",
             "content": "<p>★★★★★</p><p>Dès que j’ouvre le boîtier, ils se connectent automatiquement à mon téléphone. Aucun bug, aucun délai. Je passe facilement des appels, j’écoute ma musique en marchant ou en travaillant. Très pratiques au quotidien.</p>",
             "link_url": "",
@@ -320,7 +321,7 @@
         "item_xV4QAE": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/duc-quynh nguyen_s Video - Feb 18, 2026 copy 3.mp4",
+            "image": "shopify://shop_images/WhatsApp_Image_20e_26-01-23_at_22.34.23.jpg",
             "column_size": "4",
             "title": "Carla R.",
             "heading_tag": "h5",
@@ -552,22 +553,6 @@
         "text_color": "#1a1a1a"
       }
     },
-    "image_with_text_overlay_hnpMTA": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": false,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/20_8283bb1e-1ca7-45f4-a6bf-b170c1e1e054.png",
-        "mobile_text_position": "place-self-start-center text-center",
-        "desktop_text_position": "sm:place-self-start-center sm:text-center",
-        "text_color": "#1a1a1a",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "1771441483f3c0bbb4": {
       "type": "apps",
       "blocks": {
@@ -777,7 +762,6 @@
     "multi_column_ADcAFA",
     "featured_product_jAmLm7",
     "multi_column_L6TA7G",
-    "image_with_text_overlay_hnpMTA",
     "1771441483f3c0bbb4",
     "faq",
     "contact_pAbjmN"
