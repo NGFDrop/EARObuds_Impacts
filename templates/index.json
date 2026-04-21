@@ -193,26 +193,52 @@
     "multiple_images_with_text_a6jVyr": {
       "type": "multiple-images-with-text",
       "blocks": {
+        "item_JpP6Fz": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/18.png",
+            "image_rotation_degrees": 0,
+            "subheading": "Avant discret… après irrésistible",
+            "title": "Naturel",
+            "content": "<p>Pour un effet discret et élégant au quotidien. Ils subliment votre regard en douceur, comme si c’étaient vos propres cils… en mieux.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_8yRxne": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/17.png",
+            "image_rotation_degrees": 0,
+            "subheading": "Avant discret… après irrésistible",
+            "title": "Mixte",
+            "content": "<p>Le parfait équilibre entre naturel et volume. Idéal pour intensifier votre regard tout en gardant un rendu harmonieux, de jour comme de nuit.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
         "item_hgygx4": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/19_d2e237d0-bce2-4158-9e20-2ed25efad9ea.png",
             "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "Avant discret… après irrésistible",
-            "content": "",
+            "subheading": "Avant discret… après irrésistible",
+            "title": "Volumineux",
+            "content": "<p>Pour un effet glamour et captivant. Des cils plus denses et plus longs pour un regard intense qui ne passe pas inaperçu.</p>",
             "button_url": "",
             "button_text": ""
           }
         }
       },
       "block_order": [
+        "item_JpP6Fz",
+        "item_8yRxne",
         "item_hgygx4"
       ],
       "name": "Multiple images with text",
       "settings": {
         "full_width": false,
-        "images_layout": "scattered",
+        "images_layout": "stacked",
         "collage_images_alignment": "shifted",
         "background": "rgba(0,0,0,0)",
         "background_gradient": "",
