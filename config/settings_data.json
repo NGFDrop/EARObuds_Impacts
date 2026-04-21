@@ -59,10 +59,12 @@
         "disabled": true,
         "settings": {}
       },
-      "855628211100114053": {
-        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
+      "12795277853785214543": {
+        "type": "shopify://apps/dropmagic/blocks/dropmagic/464ff17b-8066-4488-ae39-ef396627ec8f",
         "disabled": false,
-        "settings": {}
+        "settings": {
+          "enabled": true
+        }
       }
     }
   },
