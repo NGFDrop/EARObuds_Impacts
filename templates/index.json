@@ -526,7 +526,7 @@
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "background": "#fff4ec",
+        "background": "rgba(0,0,0,0)",
         "background_gradient": "",
         "text_color": ""
       }
@@ -668,7 +668,7 @@
         "button_text": "",
         "button_url": "",
         "text_position": "start",
-        "background": "#fff4ec",
+        "background": "rgba(0,0,0,0)",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -689,15 +689,15 @@
         "content": "<p>Ecrivez-nous via le formulaire ci-dessous et nous vous répondrons dans les plus brefs délais.</p>",
         "text_position": "start",
         "contact_form_size": "small",
-        "background": "#fff4ec",
+        "background": "rgba(0,0,0,0)",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
         "contact_background": "",
         "contact_text_color": "",
-        "button_background": "#1a1a1a",
-        "button_text_color": "#fff4ec"
+        "button_background": "#fff4ec",
+        "button_text_color": "#1a1a1a"
       }
     }
   },
