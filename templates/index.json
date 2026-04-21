@@ -31,23 +31,16 @@
             "style": "fill",
             "size": "lg",
             "text": "Sublimez votre regard",
-            "url": "shopify://collections/all",
+            "url": "shopify://products/dingsen-cils-magnetiques-doux-avec-ensemble-de-colle-pinces-a-cils-magnetiques-reutilisables-ensemble-de-cils-pincettes-magnetiques-naturelles-3d-faites-a-la-main",
             "background": "#fff4ec",
             "text_color": "#1a1a1a"
-          }
-        },
-        "richtext_kLGTEM": {
-          "type": "richtext",
-          "settings": {
-            "content": ""
           }
         }
       },
       "block_order": [
         "heading_LVy3wF",
         "subheading_znmr66",
-        "button_66VUYE",
-        "richtext_kLGTEM"
+        "button_66VUYE"
       ],
       "name": "Image with text overlay",
       "settings": {
