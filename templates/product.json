@@ -154,91 +154,15 @@
       ],
       "name": "Video",
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "allow_transparent_header": false,
         "autoplay": false,
         "video_size": "auto",
-        "video": "shopify://files/videos/duc-quynh nguyen_s Vidéo - 19 févr. 2026_a7405a86-be6a-4010-9bd1-c00f0954fe75.mp4",
+        "video": "shopify://files/videos/How to.mov",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 30
-      }
-    },
-    "multi_column_Q7aLXE": {
-      "type": "multi-column",
-      "blocks": {
-        "item_YLGLPQ": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/16.png",
-            "column_size": "4",
-            "title": "Une autonomie longue durée",
-            "heading_tag": "h4",
-            "content": "<p>Dotés d’une batterie haute capacité, ces écouteurs garantissent une autonomie exceptionnelle, idéale pour les journées intensives et les longs trajets.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_bbGjR7": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/19.png",
-            "column_size": "4",
-            "title": "Un design compact et élégant",
-            "heading_tag": "h4",
-            "content": "<p>Un design compact et élégant, aux finitions soignées, conçu pour ceux qui recherchent à la fois style, confort et performance.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_wm6m7W": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/23.png",
-            "column_size": "4",
-            "title": "Une connexion rapide et stable",
-            "heading_tag": "h4",
-            "content": "<p>Équipés d’un Bluetooth de dernière génération, ces écouteurs offrent un appairage ultra-rapide et une stabilité renforcée. Une qualité audio constante pour une expérience sans compromis.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_zQPmNz": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/22.png",
-            "column_size": "4",
-            "title": "Un son clair et puissant",
-            "heading_tag": "h4",
-            "content": "<p>Profitez d’un son clair et puissant qui vous plonge au cœur de votre musique, avec des basses percutantes et une clarté exceptionnelle, même à volume élevé.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_YLGLPQ",
-        "item_bbGjR7",
-        "item_wm6m7W",
-        "item_zQPmNz"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Technologie de pointe au service du son",
-        "content": "<p>Découvrez une technologie avancée conçue pour offrir une expérience audio supérieure.</p>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "rich_text_CcHCzT": {
@@ -270,27 +194,14 @@
     "multi_column_JzyNjk": {
       "type": "multi-column",
       "blocks": {
-        "item_jq8yke": {
+        "item_wMmwVg": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/duc-quynh nguyen_s Video - Feb 18, 2026.mp4",
+            "image": "shopify://shop_images/Wha_e_tsApp_Image_2026-01-24_at_09.39.49.jpg",
             "column_size": "4",
-            "title": "Mike M.",
+            "title": "Carla R.",
             "heading_tag": "h4",
-            "content": "<p>★★★★★</p><p>Je les utilise tous les jours au travail, dans les transports et à la maison. Les <strong>EAROBUDS</strong> sont ultra confortables, je les oublie complètement dans mes oreilles. Le son est clair et l’autonomie tient largement la journée. Un vrai gain de liberté.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_mKqDBc": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/duc-quynh nguyen_s Video - Feb 18, 2026 copy 2.mp4",
-            "column_size": "4",
-            "title": "Sofie L.",
-            "heading_tag": "h4",
-            "content": "<p>★★★★★</p><p>J’ai souvent mal aux oreilles avec d’autres écouteurs, mais pas avec les <strong>EAROBUDS</strong>. Ils sont légers, discrets et tiennent parfaitement, même pendant de longues heures. Parfaits pour les appels, la musique et les podcasts.</p>",
+            "content": "<p>★★★★★</p><p>Je recharge le boîtier très rarement. Entre le travail, le sport et les trajets, les <strong>EAROBUDS</strong> me suivent partout sans stress de batterie. Le design est en plus très élégant et discret.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -299,7 +210,7 @@
         "item_BcGxRR": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/duc-quynh nguyen_s Video - Feb 18, 2026 copy.mp4",
+            "image": "shopify://shop_images/WhatsApp_Image_2026-01-24_at_09.39.23213.jpg",
             "column_size": "4",
             "title": "Roberto P.",
             "heading_tag": "h4",
@@ -309,14 +220,27 @@
             "link_style": "link"
           }
         },
-        "item_wMmwVg": {
+        "item_mKqDBc": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/duc-quynh nguyen_s Video - Feb 18, 2026 copy 3.mp4",
+            "image": "shopify://shop_images/WhatsApp_Image_2026-01-23_at_22.34.22.jpg",
             "column_size": "4",
-            "title": "Carla R.",
+            "title": "Sofie L.",
             "heading_tag": "h4",
-            "content": "<p>★★★★★</p><p>Je recharge le boîtier très rarement. Entre le travail, le sport et les trajets, les <strong>EAROBUDS</strong> me suivent partout sans stress de batterie. Le design est en plus très élégant et discret.</p>",
+            "content": "<p>★★★★★</p><p>J’ai souvent mal aux oreilles avec d’autres écouteurs, mais pas avec les <strong>EAROBUDS</strong>. Ils sont légers, discrets et tiennent parfaitement, même pendant de longues heures. Parfaits pour les appels, la musique et les podcasts.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_jq8yke": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_20e_26-01-23_at_22.34.23.jpg",
+            "column_size": "4",
+            "title": "Mike M.",
+            "heading_tag": "h4",
+            "content": "<p>★★★★★</p><p>Je les utilise tous les jours au travail, dans les transports et à la maison. Les <strong>EAROBUDS</strong> sont ultra confortables, je les oublie complètement dans mes oreilles. Le son est clair et l’autonomie tient largement la journée. Un vrai gain de liberté.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -324,10 +248,10 @@
         }
       },
       "block_order": [
-        "item_jq8yke",
-        "item_mKqDBc",
+        "item_wMmwVg",
         "item_BcGxRR",
-        "item_wMmwVg"
+        "item_mKqDBc",
+        "item_jq8yke"
       ],
       "name": "Multi-column",
       "settings": {
@@ -490,7 +414,6 @@
   "order": [
     "main",
     "video_ydjrhQ",
-    "multi_column_Q7aLXE",
     "rich_text_CcHCzT",
     "multi_column_JzyNjk",
     "multi_column_YQnNHc",
