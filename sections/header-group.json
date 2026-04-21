@@ -56,7 +56,7 @@
         "text_size": "text-base",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#2c7ef4",
+        "background": "#fff4ec",
         "background_gradient": "",
         "text_color": "#1a1a1a"
       }
@@ -66,8 +66,8 @@
       "settings": {
         "enable_sticky": false,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/EaroBuds_5B8CFF.png",
-        "logo_max_width": 210,
+        "logo": "shopify://shop_images/umi.png",
+        "logo_max_width": 220,
         "logo_mobile_max_width": 140,
         "menu": "main-menu",
         "sidebar_menu": "",

@@ -15,14 +15,14 @@
         "heading_LVy3wF": {
           "type": "heading",
           "settings": {
-            "text": "Écouteurs invisibles, Liberté totale",
+            "text": "Sublimez votre regard en quelques secondes",
             "heading_tag": "h1"
           }
         },
         "subheading_znmr66": {
           "type": "subheading",
           "settings": {
-            "text": "Les mini écouteurs sans fil ultra discrets pour travailler, bouger et se détendre — sans gêne."
+            "text": "Des cils magnétiques qui transforment votre regard instantanément — sans colle, sans compromis."
           }
         },
         "button_66VUYE": {
@@ -32,14 +32,14 @@
             "size": "lg",
             "text": "Je profite de l’offre",
             "url": "shopify://products/ecouteurs-de-sommeil-sans-fil-bluetooth-sk26-suppression-du-bruit-oreillettes-discretes-mini-casque-invisible-avec-micro-pour-le-sport",
-            "background": "#2c7ef4",
-            "text_color": "#f0f0f0"
+            "background": "#fff4ec",
+            "text_color": "#1a1a1a"
           }
         },
         "richtext_kLGTEM": {
           "type": "richtext",
           "settings": {
-            "content": "<p>✔ <strong>Ultra mini & invisibles </strong>– personne ne les remarque <br/>✔ <strong>Confort toute la journée</strong> – aucune pression dans l’oreille<br/>✔ <strong>Son clair & connexion instantanée</strong> – la technologie au rendez-vous</p>"
+            "content": ""
           }
         }
       },
@@ -55,8 +55,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "lg",
-        "image": "shopify://shop_images/EaroBuds.png",
-        "mobile_image": "shopify://shop_images/PHOTO-2026-02-18-13-38-11.jpg",
+        "image": "shopify://shop_images/16_7431d193-1a55-4b1d-ac4e-0f517698b96f.png",
+        "mobile_image": "shopify://shop_images/76a62e58-ffb3-446b-95fd-670c05d61133.webp",
         "mobile_text_position": "place-self-end-start text-start",
         "desktop_text_position": "sm:place-self-start-end sm:text-end",
         "text_color": "#f0f0f0",
@@ -70,7 +70,7 @@
         "logo_k3nH6G": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/EaroBuds_press1.png",
+            "logo": "shopify://shop_images/ChatGPT_Image_Jan_23_2026_at_07_07_17_PM.png",
             "logo_width": 300,
             "link": ""
           }
@@ -78,7 +78,7 @@
         "logo_wyXMei": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/EaroBuds_press2_81c3829d-abdf-4824-ba69-c02217f79b79.png",
+            "logo": "shopify://shop_images/ChatGPT_Image_Jan_23_2026_at_07_14_42_PM.png",
             "logo_width": 300,
             "link": ""
           }
@@ -86,7 +86,7 @@
         "logo_eJ74Ta": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/EaroBuds_press3_8d28aa3f-6ed4-4393-af03-8f1d3ca0ce37.png",
+            "logo": "shopify://shop_images/ChatGPT_Image_Jan_23_2026_at_07_12_48_PM.png",
             "logo_width": 300,
             "link": ""
           }
@@ -94,7 +94,7 @@
         "logo_RdDkBa": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/EaroBuds_press4_3b6c7dfc-d8a0-4826-8ca6-09c18b22acb0.png",
+            "logo": "shopify://shop_images/ChatGPT_Image_Jan_23_2026_at_07_15_58_PM.png",
             "logo_width": 300,
             "link": ""
           }
@@ -102,7 +102,7 @@
         "logo_LaKEnc": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/EaroBuds_press5_3026100a-d8a9-47ca-8097-bc3f060145a5.png",
+            "logo": "shopify://shop_images/ChatGPT_Image_Jan_23_2026_at_07_10_59_PM.png",
             "logo_width": 300,
             "link": ""
           }
@@ -142,7 +142,7 @@
         "heading_tadCfM": {
           "type": "heading",
           "settings": {
-            "text": "Plongez-vous au cœur de l’expérience",
+            "text": "Comment ça marche ?",
             "heading_tag": "h1"
           }
         }
@@ -157,7 +157,7 @@
         "allow_transparent_header": false,
         "autoplay": false,
         "video_size": "auto",
-        "video": "shopify://files/videos/duc-quynh nguyen_s Vidéo - 19 févr. 2026_a7405a86-be6a-4010-9bd1-c00f0954fe75.mp4",
+        "video": "shopify://files/videos/How to.mov",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
