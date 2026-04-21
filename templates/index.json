@@ -253,7 +253,7 @@
         "item_Rzrk7e": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Wha_e_tsApp_Image_2026-01-24_at_09.39.49.jpg",
+            "image": "shopify://shop_images/70f3657e-45a7-4440-9ec2-50c5db5ab97b.jpg",
             "column_size": "4",
             "title": "Vanessa C.",
             "heading_tag": "h5",
@@ -389,7 +389,6 @@
         "image_yTxn3Y": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/2.png",
             "alignment": "center",
             "max_width": 500
           }
