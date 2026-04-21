@@ -314,7 +314,7 @@
         "liquid_KaFqh9": {
           "type": "liquid",
           "settings": {
-            "liquid": "✅ Effet immédiat</br>\n✅ Pose ultra rapide</br>\n✅ Sans colle</br>\n✅ Réutilisables</br>\n✅ Confort & tenue</br>"
+            "liquid": "✅ Pose Instantanée</br>\n✅ Luxe Nomade</br>\n✅ Durabilité Éclatante</br>\n✅ Confort Inégalé</br>"
           }
         },
         "separator_X8haKy": {
@@ -451,50 +451,43 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Sont-ils adaptés aux conduits auditifs de petite taille ?",
-            "content": "<p>Oui !</p><p>Les <strong>EAROBUDS</strong> ont été spécialement conçus pour les personnes ayant de petits conduits auditifs.</p><p>Ils sont ultra-fins, très légers et se placent délicatement dans l’oreille, sans tiges ni embouts encombrants qui provoquent une sensation de pression.</p><p>Parfaits si les écouteurs classiques, comme les AirPods, ne te conviennent pas.</p>"
+            "title": "Comment appliquer mes Cils Magnétiques Arumi pour un regard envoûtant ?",
+            "content": "<p>L'application est un jeu d'enfant, une danse élégante. </p><p>Utilisez l'applicateur inclus pour positionner délicatement les cils sur votre ligne naturelle. Le magnétisme fait le reste, fusionnant avec vos cils pour une tenue impeccable et un volume instantané qui dure toute la journée. </p><p>Prête à charmer le monde ?</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "Peuvent-ils rester coincés dans mon oreille ?",
+            "title": "Les cils Arumi sont-ils confortables à porter tout au long de la journée ou de la nuit ?",
             "content": "<p>Non. Le design des <strong>EAROBUDS</strong> l’empêche totalement.<br/><br/>Les écouteurs se placent dans l’oreille externe (et non profondément dans le conduit auditif), grâce à une forme ergonomique qui empêche toute insertion trop profonde.<br/><br/>👉 Faciles à retirer : il suffit de pincer la coque extérieure et de tirer délicatement.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Sont-ils disponibles en différentes tailles ?",
+            "title": "Puis-je réutiliser mes Cils Magnétiques Arumi, et si oui, combien de fois ?",
             "content": "<p>Oui — les <strong>EAROBUDS</strong> sont fournis avec deux tailles d’embouts</p><p>une paire préinstallée</p><p>une seconde paire légèrement plus grande, pour celles et ceux qui préfèrent une meilleure tenue et une sensation plus enveloppante</p><p>La majorité des utilisateurs trouvent un confort optimal avec la taille par défaut, mais la paire supplémentaire offre un meilleur maintien si tu as des conduits auditifs plus larges ou si tu souhaites une isolation sonore renforcée.</p>"
           }
         },
         "item_GP3CHj": {
           "type": "item",
           "settings": {
-            "title": "Sont-ils compatibles avec les piercings ?",
+            "title": "Les cils magnétiques Arumi sont-ils sûrs pour mes yeux et mes cils naturels ?",
             "content": "<p>Oui, dans la plupart des cas !<br/><br/>Des clients ayant des piercings comme le helix, le tragus ou le daith indiquent qu’ils sont très confortables, même pour dormir sur le côté.<br/><br/>Pour des piercings plus complexes (comme le conch ou le rook), cela peut dépendre de ton anatomie —<br/>mais pas d’inquiétude : tu es toujours couvert(e) par notre politique de retour de 14 jours si le produit ne te convient pas.</p>"
           }
         },
         "item_GDdtpg": {
           "type": "item",
           "settings": {
-            "title": "Est-ce facile à configurer ?",
+            "title": "Comment entretenir mes Cils Magnétiques Arumi pour préserver leur splendeur ?",
             "content": "<p>Super facile.<br/><br/>Il suffit d’ouvrir le boîtier, de les connecter via Bluetooth, et c’est parti.<br/><br/>Aucune application nécessaire, aucune étape compliquée.</p>"
           }
         },
         "item_rNMgWC": {
           "type": "item",
           "settings": {
-            "title": "Est-ce compatible avec mon téléphone ou mon ordinateur portable ?",
+            "title": "Les cils Arumi sont-ils adaptés à toutes les formes d'yeux et tous les styles ?",
             "content": "<p>Oui !<br/><br/>Compatible avec iOS, Android, Mac, Windows, tablettes, montres connectées…<br/>Bref, avec tout appareil équipé du Bluetooth.</p>"
-          }
-        },
-        "item_Eb4mVt": {
-          "type": "item",
-          "settings": {
-            "title": "Le son est-il puissant et équilibré ?",
-            "content": "<p>Oui.<br/><br/>Attendez-vous à des basses profondes, des voix claires et des médiums parfaitement équilibrés, grâce aux transducteurs acoustiques spécialement calibrés des Air.<br/><br/>Et oui… le volume peut monter fort 🔥</p>"
           }
         }
       },
@@ -504,8 +497,7 @@
         "166442457738b23caf-2",
         "item_GP3CHj",
         "item_GDdtpg",
-        "item_rNMgWC",
-        "item_Eb4mVt"
+        "item_rNMgWC"
       ],
       "settings": {
         "full_width": true,
