@@ -128,19 +128,10 @@
     "rich_text_4q4rQT": {
       "type": "rich-text",
       "blocks": {
-        "heading_KRxc6w": {
-          "type": "heading",
-          "settings": {
-            "text": "Invisible à l’œil. Inoubliable à l’oreille",
-            "heading_tag": "h3",
-            "text_color": "#1a1a1a",
-            "gradient": ""
-          }
-        },
         "image_rtgnBt": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/EaroBuds_copy_30a9a732-fc1f-4343-910f-fa3bdfd97b7f.png",
+            "image": "shopify://shop_images/6cb20eaa-ad13-4a8b-9ab4-e791e9fc3f0e.jpg",
             "width_mode": "full_width",
             "max_width": 1000,
             "mobile_max_width": 600
@@ -148,7 +139,6 @@
         }
       },
       "block_order": [
-        "heading_KRxc6w",
         "image_rtgnBt"
       ],
       "name": "Rich text",
