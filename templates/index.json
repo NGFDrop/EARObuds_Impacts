@@ -340,7 +340,7 @@
         "subheading": "",
         "title": "Rejoignez nos clients satisfaits",
         "content": "",
-        "background": "#fff4ec",
+        "background": "rgba(0,0,0,0)",
         "background_gradient": "",
         "text_color": ""
       }
