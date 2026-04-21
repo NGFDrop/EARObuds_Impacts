@@ -117,13 +117,13 @@
       ],
       "name": "Logo list",
       "settings": {
-        "full_width": false,
-        "stack_mobile": false,
+        "full_width": true,
+        "stack_mobile": true,
         "title": "Vue sur :",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 7,
-        "background": "",
+        "background": "#fff4ec",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -235,7 +235,7 @@
         "subheading": "",
         "title": "Technologie de pointe au service du son",
         "content": "<p>Découvrez une technologie avancée conçue pour offrir une expérience audio supérieure.</p>",
-        "background": "",
+        "background": "#fff4ec",
         "background_gradient": "",
         "text_color": ""
       }
@@ -268,10 +268,10 @@
       ],
       "name": "Rich text",
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "content_width": "large",
         "text_position": "center",
-        "background": "#2c7ef4",
+        "background": "#fff4ec",
         "background_gradient": "",
         "text_color": ""
       }
@@ -347,9 +347,40 @@
         "subheading": "",
         "title": "Rejoignez nos clients satisfaits",
         "content": "",
-        "background": "",
+        "background": "#fff4ec",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "multiple_images_with_text_a6jVyr": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_hgygx4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/19_d2e237d0-bce2-4158-9e20-2ed25efad9ea.png",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Avant discret… après irrésistible",
+            "content": "",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_hgygx4"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "#fff4ec",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     },
     "featured_product_jAmLm7": {
@@ -470,87 +501,11 @@
         "enable_video_looping": false,
         "enable_image_zoom": true,
         "max_image_zoom_level": 3,
-        "background": "",
+        "background": "#fff4ec",
         "background_gradient": "",
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
-      }
-    },
-    "multi_column_L6TA7G": {
-      "type": "multi-column",
-      "blocks": {
-        "item_bjVEzz": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/PHOTO-2026-02-18-17-44-56.jpg",
-            "column_size": "4",
-            "title": "Sport & Mouvement",
-            "heading_tag": "h5",
-            "content": "<p><strong>Conçus pour bouger, pensés pour durer.</strong></p><p>Ultra mini et légers, ils offrent un confort total sans pression.<br/>Tenue stable et liberté sans fil, parfaits pour le sport et le quotidien.<br/>Autonomie visible grâce à l’écran digital pour garder le contrôle.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_KRYGrU": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/PHOTO-2026-02-18-17-44-56_3afa70ce-8ebf-4dfd-a22d-443a4826d943.jpg",
-            "column_size": "4",
-            "title": "Musique & Films",
-            "heading_tag": "h5",
-            "content": "<p><strong>Plonge au cœur du son et de l’émotion.</strong></p><p>Son clair et immersif pour la musique, les films et les séries.<br/>Voix nettes et autonomie visible pour une écoute sans interruption.<br/>Ultra discrets, parfaits pour le soir, les voyages et le quotidien.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_tTBwKR": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/EaroBuds_copy_3.png",
-            "column_size": "4",
-            "title": "Travail & Concentration",
-            "heading_tag": "h5",
-            "content": "<p><strong>La concentration, sans distraction.</strong></p><p>Ultra discrets et légers, parfaits pour le bureau et les réunions.<br/>Voix claires et autonomie visible pour travailler sans interruption.<br/>EaroBuds Mini se font oublier… pour te laisser te concentrer sur l’essentiel.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_8UnLUt": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/PHOTO-2026-02-18-17-44-56_cdf0e4bf-7913-434a-aeaa-fb722692050a.jpg",
-            "column_size": "4",
-            "title": "Sommeil & Détente",
-            "heading_tag": "h5",
-            "content": "<p><strong>Le calme, tout simplement.</strong></p><p>Ultra discrets, idéals pour dormir sur le côté.<br/>Son doux et équilibré avec autonomie visible pour une nuit sans stress.<br/>EaroBuds Mini créent ton espace de tranquillité, où que tu sois.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_bjVEzz",
-        "item_KRYGrU",
-        "item_tTBwKR",
-        "item_8UnLUt"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "#2c7ef4",
-        "background_gradient": "",
-        "text_color": "#1a1a1a"
       }
     },
     "1771441483f3c0bbb4": {
@@ -578,7 +533,7 @@
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "background": "",
+        "background": "#fff4ec",
         "background_gradient": "",
         "text_color": ""
       }
@@ -710,7 +665,7 @@
         "item_pEmJkP"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "subheading": "",
         "title": "FAQ",
         "content": "<p>Nous répondrons à toutes vos questions, voici les plus fréquentes.</p>",
@@ -720,7 +675,7 @@
         "button_text": "",
         "button_url": "",
         "text_position": "start",
-        "background": "rgba(0,0,0,0)",
+        "background": "#fff4ec",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -741,15 +696,15 @@
         "content": "<p>Ecrivez-nous via le formulaire ci-dessous et nous vous répondrons dans les plus brefs délais.</p>",
         "text_position": "start",
         "contact_form_size": "small",
-        "background": "",
+        "background": "#fff4ec",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
         "contact_background": "",
         "contact_text_color": "",
-        "button_background": "#fff4ec",
-        "button_text_color": "#1a1a1a"
+        "button_background": "#1a1a1a",
+        "button_text_color": "#fff4ec"
       }
     }
   },
@@ -760,8 +715,8 @@
     "multi_column_GVnKUy",
     "rich_text_4q4rQT",
     "multi_column_ADcAFA",
+    "multiple_images_with_text_a6jVyr",
     "featured_product_jAmLm7",
-    "multi_column_L6TA7G",
     "1771441483f3c0bbb4",
     "faq",
     "contact_pAbjmN"
