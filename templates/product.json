@@ -264,6 +264,7 @@
         "item_wMmwVg": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/70f3657e-45a7-4440-9ec2-50c5db5ab97b.jpg",
             "video": "shopify://files/videos/video_1776804669651.mp4",
             "column_size": "4",
             "title": "Vanessa R.",
@@ -277,7 +278,8 @@
         "item_BcGxRR": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2026-01-24_at_09.39.23213.jpg",
+            "image": "shopify://shop_images/3c468cb4-7b07-4916-9377-644b89a8d117.jpg",
+            "video": "shopify://files/videos/video_1776805111553.mp4",
             "column_size": "4",
             "title": "Sofie L.",
             "heading_tag": "h4",
@@ -290,7 +292,8 @@
         "item_mKqDBc": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2026-01-23_at_22.34.22.jpg",
+            "image": "shopify://shop_images/1a8f9875-8da2-45c1-8997-bdafcdf5e0a6.jpg",
+            "video": "shopify://files/videos/video_1776805131586.mp4",
             "column_size": "4",
             "title": "Alexia P.",
             "heading_tag": "h4",
