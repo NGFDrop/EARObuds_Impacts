@@ -268,6 +268,7 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/3c468cb4-7b07-4916-9377-644b89a8d117.jpg",
+            "video": "shopify://files/videos/video_1776805111553.mp4",
             "column_size": "4",
             "title": "Sofie L.",
             "heading_tag": "h5",
