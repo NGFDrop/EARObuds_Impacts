@@ -86,7 +86,7 @@
             "icon": "none",
             "icon_width": 20,
             "title": "Est-ce difficile d'appliquer les cils Arumi ?",
-            "content": "<ul><li>Bluetooth 5.4 (connexion ultra-stable)</li><li>Microphone intégré (pour des appels clairs)</li><li>ENC – Réduction du bruit environnemental</li><li>Commandes tactiles (musique, appels, assistant vocal)</li><li>Autonomie : 6 h (écouteurs) + 18 h (boîtier de charge)</li><li>Recharge USB-C </li><li>Type de batterie : batterie lithium rechargeable</li><li>Résistance à l’eau IPX5 (résistant à la transpiration et aux éclaboussures)</li><li>Ultra-léger : 3 g par écouteur</li><li>Écran LED numérique (niveau de batterie visible en un coup d’œil)</li><li>Modes mono & stéréo (utilisation d’un seul écouteur ou des deux)</li></ul>",
+            "content": "<p>Absolument pas ! Notre kit Arumi inclut un applicateur ergonomique pour une pose ultra-simple et rapide. Obtenez un regard parfait en quelques secondes, sans colle ni tracas.</p>",
             "page": ""
           }
         },
@@ -96,7 +96,17 @@
             "icon": "none",
             "icon_width": 20,
             "title": "Combien de temps durent les cils magnétiques Arumi ?",
-            "content": "<p>Tout ce dont vous avez besoin pour bien démarrer :<br/></p><ul><li>Écouteurs <strong>EAROBUDS</strong> (gauche + droit)</li><li>Boîtier de charge magnétique</li><li>Câble de charge USB-C</li><li>Plusieurs tailles d’embouts pour un ajustement parfait</li><li>Guide de démarrage rapide</li></ul>",
+            "content": "<p>Conçus pour durer, nos cils Arumi sont réutilisables de nombreuses fois. Avec un entretien approprié, profitez de votre regard de star encore et encore, pour un investissement beauté durable.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_kRT8bn": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Les cils Arumi sont-ils confortables à porter ?",
+            "content": "<p>Oui, le confort est notre priorité ! Légers et flexibles, les cils Arumi se fondent parfaitement avec vos cils naturels, vous oublierez même que vous les portez. Sentez-vous belle et à l'aise toute la journée.</p>",
             "page": ""
           }
         }
@@ -113,7 +123,8 @@
         "buy_buttons_LNaQhr",
         "image_Ap4H3R",
         "collapsible_text_KfUwkP",
-        "collapsible_text_zyiJmQ"
+        "collapsible_text_zyiJmQ",
+        "collapsible_text_kRT8bn"
       ],
       "settings": {
         "full_width": true,
