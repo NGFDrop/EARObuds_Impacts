@@ -125,114 +125,6 @@
         "logo_item_border": ""
       }
     },
-    "video_TCLTnT": {
-      "type": "video",
-      "blocks": {
-        "play_wdHtUt": {
-          "type": "play",
-          "settings": {}
-        },
-        "heading_tadCfM": {
-          "type": "heading",
-          "settings": {
-            "text": "Comment ça marche ?",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "play_wdHtUt",
-        "heading_tadCfM"
-      ],
-      "name": "Video",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": false,
-        "video_size": "auto",
-        "video": "shopify://files/videos/How to.mov",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
-    "multi_column_GVnKUy": {
-      "type": "multi-column",
-      "blocks": {
-        "item_XrJkxF": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/16.png",
-            "column_size": "4",
-            "title": "Une autonomie longue durée",
-            "heading_tag": "h5",
-            "content": "<p>Dotés d’une batterie haute capacité, ces écouteurs garantissent une autonomie exceptionnelle, idéale pour les journées intensives et les longs trajets.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_hQ7CRH": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_18_fevr._2026_17_53_37.png",
-            "column_size": "4",
-            "title": "Un design compact et élégant",
-            "heading_tag": "h5",
-            "content": "<p>Un design compact et élégant, aux finitions soignées, conçu pour ceux qui recherchent à la fois style, confort et performance.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_MgND7q": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/19.png",
-            "column_size": "4",
-            "title": "Une connexion rapide et stable",
-            "heading_tag": "h5",
-            "content": "<p>Équipés d’un Bluetooth de dernière génération, ces écouteurs offrent un appairage ultra-rapide et une stabilité renforcée. Une qualité audio constante pour une expérience sans compromis.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_WfDzFa": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_18_fevr._2026_17_50_26.png",
-            "column_size": "4",
-            "title": "Un son clair et puissant",
-            "heading_tag": "h5",
-            "content": "<p>Profitez d’un son clair et puissant qui vous plonge au cœur de votre musique, avec des basses percutantes et une clarté exceptionnelle, même à volume élevé.</p><h3></h3>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_XrJkxF",
-        "item_hQ7CRH",
-        "item_MgND7q",
-        "item_WfDzFa"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Technologie de pointe au service du son",
-        "content": "<p>Découvrez une technologie avancée conçue pour offrir une expérience audio supérieure.</p>",
-        "background": "rgba(0,0,0,0)",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "rich_text_4q4rQT": {
       "type": "rich-text",
       "blocks": {
@@ -267,6 +159,69 @@
         "background": "rgba(0,0,0,0)",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "video_TCLTnT": {
+      "type": "video",
+      "blocks": {
+        "play_wdHtUt": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_tadCfM": {
+          "type": "heading",
+          "settings": {
+            "text": "Comment ça marche ?",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_wdHtUt",
+        "heading_tadCfM"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "video": "shopify://files/videos/How to.mov",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "multiple_images_with_text_a6jVyr": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_hgygx4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/19_d2e237d0-bce2-4158-9e20-2ed25efad9ea.png",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Avant discret… après irrésistible",
+            "content": "",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_hgygx4"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "rgba(0,0,0,0)",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     },
     "multi_column_ADcAFA": {
@@ -343,37 +298,6 @@
         "background": "rgba(0,0,0,0)",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "multiple_images_with_text_a6jVyr": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "item_hgygx4": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/19_d2e237d0-bce2-4158-9e20-2ed25efad9ea.png",
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "Avant discret… après irrésistible",
-            "content": "",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_hgygx4"
-      ],
-      "name": "Multiple images with text",
-      "settings": {
-        "full_width": true,
-        "images_layout": "stacked",
-        "collage_images_alignment": "middle",
-        "background": "rgba(0,0,0,0)",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
       }
     },
     "featured_product_jAmLm7": {
@@ -582,62 +506,6 @@
             "title": "Le son est-il puissant et équilibré ?",
             "content": "<p>Oui.<br/><br/>Attendez-vous à des basses profondes, des voix claires et des médiums parfaitement équilibrés, grâce aux transducteurs acoustiques spécialement calibrés des Air.<br/><br/>Et oui… le volume peut monter fort 🔥</p>"
           }
-        },
-        "item_HP6gyN": {
-          "type": "item",
-          "settings": {
-            "title": "Est-il résistant à l’eau ?",
-            "content": "<p>Oui.<br/><br/>Les EAROBUDS sont résistants à l’eau (certification IPX5), ce qui signifie qu’ils supportent la transpiration et les éclaboussures.<br/>Idéals pour le sport, la pluie légère et une utilisation quotidienne sans souci.</p>"
-          }
-        },
-        "item_Tb9YGQ": {
-          "type": "item",
-          "settings": {
-            "title": "Puis-je les utiliser à l’extérieur ou pendant le sport ?",
-            "content": "<p>Oui !<br/><br/>Les <strong>EAROBUDS</strong> sont résistants à la transpiration et ultra-légers, avec un maintien sécurisé qui ne bouge pas lorsque vous marchez, courez ou vous entraînez à la salle de sport.</p>"
-          }
-        },
-        "item_6WTYnT": {
-          "type": "item",
-          "settings": {
-            "title": "Puis-je les utiliser pour dormir ou me détendre ?",
-            "content": "<p>Absolument.<br/><br/>Ils sont compacts, légers et équipés d’embouts en silicone souple, parfaits pour s’endormir en musique, méditer ou écouter des podcasts en toute tranquillité.</p>"
-          }
-        },
-        "item_KUPJar": {
-          "type": "item",
-          "settings": {
-            "title": "Prend-il en charge la connexion automatique et les commandes tactiles ?",
-            "content": "<p>Oui.<br/><br/>Les écouteurs se connectent automatiquement dès que vous ouvrez le boîtier, et vous pouvez lancer/mettre en pause la lecture, changer de piste ou répondre aux appels grâce à de simples gestes tactiles.</p>"
-          }
-        },
-        "item_6Lrw6a": {
-          "type": "item",
-          "settings": {
-            "title": "Puis-je passer des appels avec ?",
-            "content": "<p>Bien sûr.<br/><br/>Le micro intégré avec réduction de bruit garantit une voix claire et nette, même dans des environnements bruyants.</p>"
-          }
-        },
-        "item_7h8834": {
-          "type": "item",
-          "settings": {
-            "title": "Quelle est l’autonomie de la batterie ?",
-            "content": "<p>Jusqu’à 24 heures au total :<br/><br/>– jusqu’à 6 heures d’écoute sur une seule charge<br/>– 18 heures supplémentaires grâce au boîtier de charge<br/><br/>⏱️ Recharge complète en environ 1 heure.</p>"
-          }
-        },
-        "item_dWByRB": {
-          "type": "item",
-          "settings": {
-            "title": "Quand vais-je recevoir ma commande ?",
-            "content": "<p>Nous proposons des options de livraison fiables et flexibles pour répondre à vos besoins. Voici les détails :<br/><br/>🚚 Livraison gratuite<br/><br/>Délai de préparation : 1 à 2 jours ouvrables<br/>Délai de livraison : 5 à 10 jours ouvrables<br/>Inclus : livraison suivie et protégée</p>"
-          }
-        },
-        "item_pEmJkP": {
-          "type": "item",
-          "settings": {
-            "title": "Durée de vie & garantie ?",
-            "content": "<p>Les EAROBUDS sont livrés avec une garantie d’1 an.<br/><br/>Si quoi que ce soit ne fonctionne pas comme prévu, nous vous couvrons avec un support simple, rapide et des remplacements sans tracas.</p>"
-          }
         }
       },
       "block_order": [
@@ -647,15 +515,7 @@
         "item_GP3CHj",
         "item_GDdtpg",
         "item_rNMgWC",
-        "item_Eb4mVt",
-        "item_HP6gyN",
-        "item_Tb9YGQ",
-        "item_6WTYnT",
-        "item_KUPJar",
-        "item_6Lrw6a",
-        "item_7h8834",
-        "item_dWByRB",
-        "item_pEmJkP"
+        "item_Eb4mVt"
       ],
       "settings": {
         "full_width": true,
@@ -704,11 +564,10 @@
   "order": [
     "image_with_text_overlay_Jwqg7g",
     "logo_list_gRjPe8",
-    "video_TCLTnT",
-    "multi_column_GVnKUy",
     "rich_text_4q4rQT",
-    "multi_column_ADcAFA",
+    "video_TCLTnT",
     "multiple_images_with_text_a6jVyr",
+    "multi_column_ADcAFA",
     "featured_product_jAmLm7",
     "1771441483f3c0bbb4",
     "faq",
