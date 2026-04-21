@@ -35,12 +35,19 @@
             "background": "#fff4ec",
             "text_color": "#1a1a1a"
           }
+        },
+        "richtext_ah4iWi": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>✅ Réveille les racines endormies pour relancer la pousse<br/>✅ Réduit visiblement la chute dès les premières semaines<br/>✅ Cuir chevelu purifié = cheveux plus forts<br/>✅ Booste la densité pour une chevelure plus épaisse<br/>✅ Résultats visibles rapidement sans routine compliquée</p>"
+          }
         }
       },
       "block_order": [
         "heading_LVy3wF",
         "subheading_znmr66",
-        "button_66VUYE"
+        "button_66VUYE",
+        "richtext_ah4iWi"
       ],
       "name": "Image with text overlay",
       "settings": {
