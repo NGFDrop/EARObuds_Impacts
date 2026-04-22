@@ -143,62 +143,35 @@
         "input_text_color": ""
       }
     },
-    "rich_text_CcHCzT": {
-      "type": "rich-text",
+    "multiple_images_with_text_fGM3np": {
+      "type": "multiple-images-with-text",
       "blocks": {
-        "image_cQYAwe": {
-          "type": "image",
+        "item_tYPWq4": {
+          "type": "item",
           "settings": {
             "image": "shopify://shop_images/6cb20eaa-ad13-4a8b-9ab4-e791e9fc3f0e.jpg",
-            "width_mode": "custom",
-            "max_width": 600,
-            "mobile_max_width": 600
+            "image_rotation_degrees": 0,
+            "subheading": "",
+            "title": "Sublimez votre regard en quelques secondes",
+            "content": "<p>✅ <strong>Effet immédiat</strong> - Des cils plus longs et plus volumineux dès la première pose<br/>✅ <strong>Pose ultra rapide</strong> - Appliquez vos cils en quelques secondes, sans difficulté<br/>✅ <strong>Sans colle</strong> - Aucun résidu, aucun dégât pour vos cils naturels<br/>✅ <strong>Réutilisables</strong> - Jusqu’à 50+ utilisations pour un look parfait à chaque fois<br/>✅ <strong>Confort & tenue</strong> - Légers, invisibles et tiennent toute la journée</p>",
+            "button_url": "",
+            "button_text": ""
           }
         }
       },
       "block_order": [
-        "image_cQYAwe"
+        "item_tYPWq4"
       ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "large",
-        "text_position": "center",
-        "background": "rgba(0,0,0,0)",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "video_ydjrhQ": {
-      "type": "video",
-      "blocks": {
-        "play_TdmXPj": {
-          "type": "play",
-          "settings": {}
-        },
-        "heading_8HRMYR": {
-          "type": "heading",
-          "settings": {
-            "text": "Comment ça marche ?",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "play_TdmXPj",
-        "heading_8HRMYR"
-      ],
-      "name": "Video",
+      "name": "Multiple images with text",
       "settings": {
         "full_width": false,
-        "allow_transparent_header": false,
-        "autoplay": false,
-        "video_size": "fill",
-        "video": "shopify://files/videos/How to.mov",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "images_layout": "stacked",
+        "collage_images_alignment": "shifted",
+        "background": "rgba(0,0,0,0)",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     },
     "multiple_images_with_text_depgdj": {
@@ -392,8 +365,7 @@
   },
   "order": [
     "main",
-    "rich_text_CcHCzT",
-    "video_ydjrhQ",
+    "multiple_images_with_text_fGM3np",
     "multiple_images_with_text_depgdj",
     "multi_column_JzyNjk",
     "177182570030dd3215",
