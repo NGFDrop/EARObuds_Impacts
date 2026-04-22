@@ -150,8 +150,8 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/6cb20eaa-ad13-4a8b-9ab4-e791e9fc3f0e.jpg",
-            "width_mode": "full_width",
-            "max_width": 1000,
+            "width_mode": "custom",
+            "max_width": 600,
             "mobile_max_width": 600
           }
         }
@@ -193,7 +193,7 @@
         "full_width": false,
         "allow_transparent_header": false,
         "autoplay": false,
-        "video_size": "auto",
+        "video_size": "fill",
         "video": "shopify://files/videos/How to.mov",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
