@@ -174,6 +174,44 @@
         "button_text_color": ""
       }
     },
+    "media_with_text_WiUhgC": {
+      "type": "media-with-text",
+      "blocks": {
+        "video_edNipY": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/How to.mov",
+            "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "autoplay": true,
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Comment ça marche ?",
+            "content": "<ol><li>Placez les cils magnétiques ARUMI sur le support de l’applicateur.</li><li>Placez les sur vos cils naturels et ajustez doucement jusqu’à obtenir un maintien parfait.</li><li>Retirez délicatement les cils.</li></ol>",
+            "link_text": "",
+            "link_url": "",
+            "background": "rgba(0,0,0,0)",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "video_edNipY"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
+      }
+    },
     "multiple_images_with_text_depgdj": {
       "type": "multiple-images-with-text",
       "blocks": {
@@ -366,6 +404,7 @@
   "order": [
     "main",
     "multiple_images_with_text_fGM3np",
+    "media_with_text_WiUhgC",
     "multiple_images_with_text_depgdj",
     "multi_column_JzyNjk",
     "177182570030dd3215",
