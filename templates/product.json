@@ -180,7 +180,7 @@
         "video_edNipY": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/How to.mov",
+            "video": "shopify://files/videos/download (3).mp4",
             "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "autoplay": true,
             "media_width": 35,
